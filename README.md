@@ -3,6 +3,8 @@
 ## This is a semi-large modern version modpack originally inspired SCPWIKI stories like "When Day Breaks" and fleshy meaty mods. This Modpack was originally made for a group of friends, but i decided to go fully into the development, in order to see what its like making a "proper" modpack. 
 ## This modpack is hard, but will give you the tools neccessary to fight off any threats along the way, you will die. You will die, alot.
 
+![New Project (3)](https://github.com/user-attachments/assets/d6669e20-c030-4f92-85e9-9a44f175ad0e)
+
 # Installation ;;
 - ## Modrinth : Download ".mrpack", press the create instance button in bottom left of modrinth launcher, click "from file" and select the downloaded ".mrpack".
 - ## Curseforge : (to be exported...)
