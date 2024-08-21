@@ -10,7 +10,7 @@
 - ## Curseforge : (to be exported...)
 - ## Vanilla Launcher : (to be exported...)
 
-# Modlist ;;
+# Modlist ;; OUTDATED
 	-[EMF] Entity Model Features [Fabric & Forge] (by traben_0)
 	-[ETF] Entity Texture Features - [Fabric & Forge] (by traben_0)
 	-AppleSkin (by squeek502)
