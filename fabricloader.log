@@ -1,4 +1,0 @@
-[04:09:18] [WARN] [FabricLoader/Resolution]: Mod resolution failed
-[04:09:18] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE neepmeat 0.2.37-beta+1.20.1 {depends geckolib @ [>=4.4]}, ROOT_FORCELOAD_SINGLE neepmeat 0.2.37-beta+1.20.1]
-[04:09:18] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP neepmeat 0.2.37-beta+1.20.1 {depends geckolib @ [>=4.4]}]
-[04:09:18] [INFO] [FabricLoader/Resolution]: Fix: add [add:geckolib 4.4 ([[4.4,∞)])], remove [], replace []
