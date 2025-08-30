@@ -1,0 +1,1313 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-08 11:21:09 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-08 11:21:09 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sentry": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/red/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-08 11:27:52 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/upgrades/iron_to_gold_shulker_box_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-08 11:28:29 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/blue/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/brown/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 11:53:06 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/floor_trap": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-08 11:27:52 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/iron_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/storage_module": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/copper_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-08 11:28:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:23:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/upgrades/copper_to_iron_shulker_box_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/dirt": {
+    "criteria": {
+      "has_dirt": "2025-02-08 11:34:57 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/track_mine": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/white/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_feathers": {
+    "criteria": {
+      "has_feathers": "2025-02-08 11:27:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:47:16 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/security_camera": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/leather": {
+    "criteria": {
+      "has_leather": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:34:57 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/briefcase": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-08 11:52:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-08 11:52:33 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/mine": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:47:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-08 11:27:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-08 11:28:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "beansbackpacks:recipes/iron_backpack": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "scguns:main/root": {
+    "criteria": {
+      "gun": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/beef": {
+    "criteria": {
+      "has_beef": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:47:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:47:16 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-08 11:27:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:47:16 -0500"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/raw_meat_collection": {
+    "criteria": {
+      "has_raw_beef": "2025-02-08 11:32:13 -0500",
+      "has_raw_chicken": "2025-02-08 11:27:52 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 11:53:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-08 11:31:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:23:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_seeds": {
+    "criteria": {
+      "has_seeds": "2025-02-08 11:36:08 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/pink/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/speed_module": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/light_gray/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-02-08 11:28:29 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-02-08 11:34:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-08 11:31:20 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:47:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/mycelium_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-02-08 11:34:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-08 11:31:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/grass_block_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-02-08 11:34:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/varnished_log_from_smoking": {
+    "criteria": {
+      "has_item": "2025-02-08 11:31:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-08 11:55:29 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/light_blue/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_seeds": {
+    "criteria": {
+      "has_seeds": "2025-02-08 11:36:08 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-08 11:55:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-08 11:27:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/default/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/dirt_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-08 11:34:57 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-02-08 11:28:29 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-08 11:27:54 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_saplings": {
+    "criteria": {
+      "has_saplings": "2025-02-08 11:29:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/podzol_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-02-08 11:34:57 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:47:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-08 11:31:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-08 11:43:10 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/cyan/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:47:16 -0500"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/maya_stone": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/dirt_path_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-02-08 11:34:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-08 11:45:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/magenta/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 11:53:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-08 11:28:29 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/upgrades/vanilla_to_iron_shulker_box_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 11:53:06 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/yellow/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/harming_module": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/purple/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-08 11:45:11 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/smart_module": {
+    "criteria": {
+      "has_iron": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/orange/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-08 11:47:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-08 11:52:33 -0500"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/root": {
+    "criteria": {
+      "has_raw_meats": "2025-02-08 11:27:52 -0500"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_leather": {
+    "criteria": {
+      "has_leather": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-08 11:55:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-02-08 11:27:29 -0500",
+      "minecraft:plains": "2025-02-08 11:28:07 -0500"
+    },
+    "done": false
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/black/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-02-08 11:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/gray/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/green/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2025-02-08 11:31:40 -0500"
+    },
+    "done": false
+  },
+  "beansbackpacks:recipes/leather_backpack": {
+    "criteria": {
+      "has_leather": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-08 11:43:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-08 11:31:10 -0500"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/lime/iron/copper_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-08 11:24:39 -0500"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-02-08 11:23:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 11:55:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-08 11:52:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-08 11:32:13 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

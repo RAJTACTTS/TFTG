@@ -1,0 +1,928 @@
+[22Oct2024 18:36:20.125] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[22Oct2024 18:36:20.127] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Eclipse Adoptium; OS Linux arch amd64 version 6.1.0-25-amd64
+[22Oct2024 18:36:20.439] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Oct2024 18:36:20.448] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[22Oct2024 18:36:20.463] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[22Oct2024 18:36:20.473] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[22Oct2024 18:36:20.485] [main/INFO] [wtf.gofancy.koremods.modlauncher.bootstrap.KoremodsServiceWrapper/]: Setting up Koremods environment
+[22Oct2024 18:36:20.535] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/container/mods/Connector-1.0.0-beta.45+1.20.1.jar%23181%23184!/ Service=ModLauncher Env=SERVER
+[22Oct2024 18:36:20.734] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/container/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Oct2024 18:36:20.735] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/container/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Oct2024 18:36:20.735] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/container/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Oct2024 18:36:20.736] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/container/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Oct2024 18:36:20.942] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22Oct2024 18:36:20.942] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /home/container/mods/resourcefullib-forge-1.20.1-2.1.28.jar
+[22Oct2024 18:36:20.942] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 70 dependencies adding them to mods collection
+[22Oct2024 18:36:21.158] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 4 candidates to load
+[22Oct2024 18:36:21.495] [main/INFO] [wtf.gofancy.koremods.Launch/]: Found launch plugin: wtf.gofancy.koremods.modlauncher.service.ModlauncherKoremodsLaunchPlugin
+[22Oct2024 18:36:21.495] [main/INFO] [wtf.gofancy.koremods.Launch/]: Launching Koremods instance
+[22Oct2024 18:36:21.531] [main/INFO] [wtf.gofancy.koremods.ScriptCompilation/]: Reading compiled scripts
+[22Oct2024 18:36:21.531] [main/INFO] [wtf.gofancy.koremods.Launch/]: Discovering script packs finished successfully
+[22Oct2024 18:36:21.740] [main/INFO] [wtf.gofancy.koremods.modlauncher.service.ModlauncherKoremodsLaunchPlugin/]: Verifying script packs
+[22Oct2024 18:36:21.741] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[22Oct2024 18:36:22.296] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Oct2024 18:36:22.389] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[22Oct2024 18:36:22.390] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[22Oct2024 18:36:22.397] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[22Oct2024 18:36:22.434] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 84 options available, 0 override(s) found
+[22Oct2024 18:36:22.434] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[22Oct2024 18:36:22.443] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[22Oct2024 18:36:22.519] [main/WARN] [mixin/]: Reference map 'lookinsharp-forge-1.20.1-forge-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Oct2024 18:36:22.563] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Oct2024 18:36:22.757] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[22Oct2024 18:36:22.758] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[22Oct2024 18:36:22.758] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[22Oct2024 18:36:22.759] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[22Oct2024 18:36:22.759] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[22Oct2024 18:36:22.759] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[22Oct2024 18:36:23.065] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[22Oct2024 18:36:23.065] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[22Oct2024 18:36:23.141] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[22Oct2024 18:36:23.247] [main/INFO] [mixin/]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.server.dedicated.DedicatedServer
+[22Oct2024 18:36:23.416] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (4.191 s after launch)
+[22Oct2024 18:36:23.520] [main/INFO] [mixin/]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
+[22Oct2024 18:36:23.521] [main/INFO] [mixin/]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to mda76318$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[22Oct2024 18:36:23.521] [main/INFO] [mixin/]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to mda76318$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[22Oct2024 18:36:23.566] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[22Oct2024 18:36:23.566] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[22Oct2024 18:36:23.630] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[22Oct2024 18:36:23.630] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[22Oct2024 18:36:23.671] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity from mod sanitydim::handler$zfi000$sanitydim$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[22Oct2024 18:36:24.219] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 800 milliseconds
+[22Oct2024 18:36:25.047] [main/INFO] [mixin/]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[22Oct2024 18:36:25.542] [main/INFO] [surveyor/]: [Surveyor] is not a map mod
+[22Oct2024 18:36:25.564] [main/INFO] [azurelib/FileWatching]: Registered darkwaters config for auto-sync function
+[22Oct2024 18:36:25.727] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
+[22Oct2024 18:36:25.735] [modloading-worker-0/INFO] [mixin/]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
+[22Oct2024 18:36:25.765] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[22Oct2024 18:36:25.765] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[22Oct2024 18:36:25.766] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[22Oct2024 18:36:25.766] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[22Oct2024 18:36:25.766] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[22Oct2024 18:36:25.766] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[22Oct2024 18:36:25.766] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[22Oct2024 18:36:25.778] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[22Oct2024 18:36:25.778] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[22Oct2024 18:36:25.779] [modloading-worker-0/INFO] [dev.su5ed.sinytra.connectorextras.terrablenderbridge.TerraBlenderBridge/]: Injecting TerraBlender API classes
+[22Oct2024 18:36:25.783] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for leavesbegone:main
+[22Oct2024 18:36:25.813] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
+[22Oct2024 18:36:25.817] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.84.
+[22Oct2024 18:36:25.921] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/]: Kiwi Customization is enabled
+[22Oct2024 18:36:25.939] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[22Oct2024 18:36:25.971] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/INIT]: Processing 6 KiwiModule annotations
+[22Oct2024 18:36:26.026] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Oct2024 18:36:26.026] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Oct2024 18:36:26.044] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[22Oct2024 18:36:26.067] [modloading-worker-0/INFO] [NoChatReports/]: KONNICHIWA ZA WARUDO!
+[22Oct2024 18:36:26.067] [modloading-worker-0/INFO] [NoChatReports/]: Default JVM text encoding is: UTF-8
+[22Oct2024 18:36:26.068] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Common.json...
+[22Oct2024 18:36:26.069] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Common.json...
+[22Oct2024 18:36:26.141] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[22Oct2024 18:36:26.216] [modloading-worker-0/INFO] [wtf.gofancy.koremods.mod.KoremodsMod/]: Constructed Koremods mod instance
+[22Oct2024 18:36:26.329] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[22Oct2024 18:36:26.523] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[22Oct2024 18:36:26.523] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[22Oct2024 18:36:27.201] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [xkdeco:entity_types] initialized
+[22Oct2024 18:36:27.202] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		block_entity_type: 5
+[22Oct2024 18:36:27.202] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_templates] initialized
+[22Oct2024 18:36:27.202] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_template: 2
+[22Oct2024 18:36:27.203] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_components] initialized
+[22Oct2024 18:36:27.203] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_component: 10
+[22Oct2024 18:36:27.203] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:data] initialized
+[22Oct2024 18:36:27.203] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		recipe_serializer: 3
+[22Oct2024 18:36:27.203] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:item_templates] initialized
+[22Oct2024 18:36:27.203] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:item_template: 3
+[22Oct2024 18:36:27.426] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@5f6ef272 has been registered twice for the same name treechop:chop_wood.
+[22Oct2024 18:36:28.031] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/ebony_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[22Oct2024 18:36:28.036] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/full_glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[22Oct2024 18:36:28.037] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[22Oct2024 18:36:28.057] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/iron_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[22Oct2024 18:36:28.060] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/mahogany_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[22Oct2024 18:36:28.072] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/varnished_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[22Oct2024 18:36:28.079] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[22Oct2024 18:36:28.089] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[22Oct2024 18:36:28.091] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[22Oct2024 18:36:28.097] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[22Oct2024 18:36:28.102] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[22Oct2024 18:36:28.141] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[22Oct2024 18:36:28.141] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[22Oct2024 18:36:28.143] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[22Oct2024 18:36:28.146] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roofed_lamp is not registered
+[22Oct2024 18:36:28.149] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[22Oct2024 18:36:28.149] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[22Oct2024 18:36:28.149] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[22Oct2024 18:36:28.152] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[22Oct2024 18:36:28.155] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[22Oct2024 18:36:28.155] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[22Oct2024 18:36:28.155] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[22Oct2024 18:36:28.157] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[22Oct2024 18:36:28.159] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[22Oct2024 18:36:28.166] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[22Oct2024 18:36:28.177] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[22Oct2024 18:36:28.180] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[22Oct2024 18:36:28.181] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[22Oct2024 18:36:28.606] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[22Oct2024 18:36:28.606] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22Oct2024 18:36:28.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@4c1bb756 has been registered twice for the same name scguns:mechanical_pressing.
+[22Oct2024 18:36:28.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@7661cd3d has been registered twice for the same name scguns:powered_mechanical_pressing.
+[22Oct2024 18:36:28.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@1558cab8 has been registered twice for the same name scguns:macerating.
+[22Oct2024 18:36:28.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@37940a45 has been registered twice for the same name scguns:powered_macerating.
+[22Oct2024 18:36:28.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@66b3db35 has been registered twice for the same name scguns:gun_bench.
+[22Oct2024 18:36:28.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@34fbe0a3 has been registered twice for the same name scguns:lightning_battery.
+[22Oct2024 18:36:28.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@4c1bb756 has been registered twice for the same name scguns:mechanical_pressing.
+[22Oct2024 18:36:28.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@7661cd3d has been registered twice for the same name scguns:powered_mechanical_pressing.
+[22Oct2024 18:36:28.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@1558cab8 has been registered twice for the same name scguns:macerating.
+[22Oct2024 18:36:28.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@37940a45 has been registered twice for the same name scguns:powered_macerating.
+[22Oct2024 18:36:28.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@66b3db35 has been registered twice for the same name scguns:gun_bench.
+[22Oct2024 18:36:28.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@34fbe0a3 has been registered twice for the same name scguns:lightning_battery.
+[22Oct2024 18:36:29.323] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] MidnightLib detected!
+[22Oct2024 18:36:29.327] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[22Oct2024 18:36:29.370] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[22Oct2024 18:36:29.373] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[22Oct2024 18:36:29.374] [modloading-worker-0/INFO] [com.samgj15.nightlights.NightLightsMain/]: Hey, it's Night Lights!
+[22Oct2024 18:36:29.378] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[22Oct2024 18:36:29.379] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[22Oct2024 18:36:29.380] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[22Oct2024 18:36:29.390] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[22Oct2024 18:36:29.394] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[22Oct2024 18:36:29.395] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[22Oct2024 18:36:29.397] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[22Oct2024 18:36:29.397] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[22Oct2024 18:36:29.398] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[22Oct2024 18:36:29.434] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:aiming for minecraft:player
+[22Oct2024 18:36:29.434] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:reloading for minecraft:player
+[22Oct2024 18:36:29.434] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:shooting for minecraft:player
+[22Oct2024 18:36:29.434] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:burstcount for minecraft:player
+[22Oct2024 18:36:29.434] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:onburstcooldown for minecraft:player
+[22Oct2024 18:36:29.434] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:melee for minecraft:player
+[22Oct2024 18:36:29.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
+[22Oct2024 18:36:29.461] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22Oct2024 18:36:29.462] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[22Oct2024 18:36:29.462] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22Oct2024 18:36:29.462] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22Oct2024 18:36:29.462] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22Oct2024 18:36:29.462] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22Oct2024 18:36:29.462] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22Oct2024 18:36:29.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.3+mod Target: null
+[22Oct2024 18:36:29.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[22Oct2024 18:36:29.858] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[22Oct2024 18:36:29.861] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[22Oct2024 18:36:29.862] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.kiwi.customization.compat.jade.JadeCompat
+[22Oct2024 18:36:29.862] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[22Oct2024 18:36:29.868] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[22Oct2024 18:36:29.871] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[22Oct2024 18:36:29.873] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[22Oct2024 18:36:30.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[22Oct2024 18:36:30.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_abandoned_villages] Starting version check at https://api.modrinth.com/updates/fLAIO8XF/forge_updates.json
+[22Oct2024 18:36:30.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_abandoned_villages] Found status: AHEAD Current: 1-v1.0.1 Target: null
+[22Oct2024 18:36:30.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [leavesbegone] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/leavesbegone.json
+[22Oct2024 18:36:30.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [leavesbegone] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[22Oct2024 18:36:30.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
+[22Oct2024 18:36:30.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[22Oct2024 18:36:30.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[22Oct2024 18:36:30.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[22Oct2024 18:36:30.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Starting version check at https://api.modrinth.com/updates/uAAuyU4M/forge_updates.json
+[22Oct2024 18:36:30.440] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Oct2024 18:36:30.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Found status: BETA_OUTDATED Current: 2.8.2.0 Target: 2.8.13.1
+[22Oct2024 18:36:30.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[22Oct2024 18:36:30.645] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/container/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23267!/assets/.mcassetsroot' uses unexpected schema
+[22Oct2024 18:36:30.646] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/container/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23267!/data/.mcassetsroot' uses unexpected schema
+[22Oct2024 18:36:30.680] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode from mod sanitydim::handler$zfm000$sanitydim$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[22Oct2024 18:36:31.522] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[22Oct2024 18:36:31.621] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: No key id in MapLike[{"tag":"forge:ingots/brass","required":false}]
+[22Oct2024 18:36:31.621] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list scguns:advanced_bullet_material from scguns:tags/items/advanced_bullet_material.json in data pack ScorchedGuns-0.3.2.5-1.20.1.jar
+java.lang.RuntimeException: No key id in MapLike[{"tag":"forge:ingots/brass","required":false}]
+	at com.mojang.serialization.DataResult.lambda$getOrThrow$5(DataResult.java:101) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.getOrThrow(DataResult.java:93) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.tags.TagLoader.m_144495_(TagLoader.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at net.minecraft.tags.TagLoader.m_203900_(TagLoader.java:114) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at net.minecraft.tags.TagManager.m_203920_(TagManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[22Oct2024 18:36:31.657] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/gooseberry as it is missing following references: pamhc2trees:gooseberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/strawberry as it is missing following references: pamhc2crops:strawberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/cranberry as it is missing following references: pamhc2crops:cranberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/mulberry as it is missing following references: pamhc2crops:mulberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/blueberry as it is missing following references: pamhc2crops:blueberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/raspberry as it is missing following references: pamhc2crops:raspberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/candleberry as it is missing following references: pamhc2crops:candleberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/huckleberry as it is missing following references: pamhc2crops:huckleberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/juniperberry as it is missing following references: pamhc2crops:juniperberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/blackberry as it is missing following references: pamhc2crops:blackberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries/elderberry as it is missing following references: pamhc2crops:elderberryitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.658] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:berries as it is missing following references: #forge:berries/blackberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/blueberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/candleberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/cranberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/elderberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/gooseberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/huckleberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/juniperberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/mulberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/raspberry (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:berries/strawberry (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.661] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:citrusfruits/grapefruit as it is missing following references: pamhc2trees:grapefruititem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.661] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:citrusfruits/lime as it is missing following references: pamhc2trees:limeitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.661] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:citrusfruits/lemon as it is missing following references: pamhc2trees:lemonitem (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.662] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:citrusfruits as it is missing following references: #forge:citrusfruits/grapefruit (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:citrusfruits/lemon (from pamhc2foodextended-1.20.4-1.0.1.jar), 
+	#forge:citrusfruits/lime (from pamhc2foodextended-1.20.4-1.0.1.jar)
+[22Oct2024 18:36:31.664] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag farmersdelight:tools/knives as it is missing following references: scguns:anthralite_knife (from ScorchedGuns-0.3.2.5-1.20.1.jar)
+[22Oct2024 18:36:31.855] [Worker-Main-4/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file lookinsharp:weakening_artifact from lookinsharp:loot_modifiers/weakening_artifact.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 15 column 4 path $.result.id
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 15 column 4 path $.result.id
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:514) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23267!/:?]
+	... 13 more
+[22Oct2024 18:36:32.021] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22Oct2024 18:36:32.021] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22Oct2024 18:36:32.021] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22Oct2024 18:36:32.021] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22Oct2024 18:36:32.057] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/rocket_rifle: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.057] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_smelting_crushed_raw_anthralite: com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_loaded
+[22Oct2024 18:36:32.058] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/whispers: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.059] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/blaze_fuel: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.060] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/basalt_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.060] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sheol_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.060] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/soul_drummer_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.063] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/nitro_powder_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.065] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ingot_anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
+[22Oct2024 18:36:32.065] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/phosphor: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
+[22Oct2024 18:36:32.066] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/soul_drummer: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.066] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/large_iron_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.066] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/vehement_coal_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.066] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/jackhammer_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.067] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[22Oct2024 18:36:32.067] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/rich_phosphorite_crushing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/bomb_lance: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/medium_copper_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/mas_55_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/winnie: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/dark_matter: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/bomb_lance_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
+[22Oct2024 18:36:32.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/waltz_conversion: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/krahg_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.071] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/cogloader_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.072] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/echoes_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.073] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:guns/umax_pistol_from_gun_bench: com.google.gson.JsonSyntaxException: Unknown item 'scguns:umax_pistol'
+[22Oct2024 18:36:32.073] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/gattaler: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.073] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/astella: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.073] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/scrapper: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.074] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/combat_shotgun: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.074] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/large_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.074] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/repeating_musket: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[22Oct2024 18:36:32.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/blunderbuss_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/gauss_rifle_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/nitro_buckshot_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
+[22Oct2024 18:36:32.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/dark_matter_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/krauser_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.077] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/ramrod_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.077] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/callwell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.077] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/microjet: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/vulcanic_repeater: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/m22_waltz_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/nether_star_fragment: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/howler_conversion: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/uppercut: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/shulker_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
+[22Oct2024 18:36:32.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/saketini: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/energy_core: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/locust_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/waltz_conversion_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/scorched_blend_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/echoes_2_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/raw_anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
+[22Oct2024 18:36:32.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/lone_wonder_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/m3_carabine: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/newborn_cyst: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/bearpack_shell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/deepslate_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
+[22Oct2024 18:36:32.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/sequoia: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_chunk: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
+[22Oct2024 18:36:32.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/raw_anthralite_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[22Oct2024 18:36:32.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/malignant_flesh_block_from_veins: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:compacting'
+[22Oct2024 18:36:32.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[22Oct2024 18:36:32.083] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/gauss_rifle: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.083] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/laser_musket: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.083] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
+[22Oct2024 18:36:32.083] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/whispers_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/shock_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
+[22Oct2024 18:36:32.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/m22_waltz: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/diamond_steel_blend_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/spitfire: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/small_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
+[22Oct2024 18:36:32.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/raw_phosphor_from_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
+[22Oct2024 18:36:32.085] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/sequoia_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.085] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/auvtomag_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.085] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/brawler_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.085] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_brass_ingot_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.085] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/llr_director: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.085] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/gyrojet_pistol: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.086] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/rat_king_and_queen: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.086] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/crushed_raw_anthralite_splashing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
+[22Oct2024 18:36:32.086] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/heavy_gunpowder_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.086] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/peal_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.086] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/rusty_gnat_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.086] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/mk43_rifle_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.086] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/freyr_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.086] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/makeshift_rifle_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.086] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/carapice_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:sweetteaitem: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:hotteaitem'
+[22Oct2024 18:36:32.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/diamond_steel_ingot_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/shellurker: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/blunderbuss: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/super_shotgun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/rusty_gnat: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/advanced_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.088] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[22Oct2024 18:36:32.088] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:anthralite/anthralite_knife_smithing: com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:iron_knife'
+[22Oct2024 18:36:32.088] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/defender_pistol_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.088] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/floundergat: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.089] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe lookinsharp:vitalium_sword: com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
+[22Oct2024 18:36:32.089] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe lookinsharp:vitalium_ingot: com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
+[22Oct2024 18:36:32.089] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/arc_worker_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.089] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_blasting_crushed_raw_anthralite: com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_loaded
+[22Oct2024 18:36:32.089] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/packed_flesh_block_from_flesh_blocks: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:compacting'
+[22Oct2024 18:36:32.089] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_iron_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.089] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/winnie_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.090] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/rat_king_and_queen_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.090] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/small_diamond_steel_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/shulkshot: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/jackhammer: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/glowstone_dust_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
+[22Oct2024 18:36:32.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/bruiser: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodcore:caramelcupcakeitem_x4: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcakeitem'
+[22Oct2024 18:36:32.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/vulcanic_repeater_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/iron_javeline_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.092] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_3: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
+[22Oct2024 18:36:32.092] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
+[22Oct2024 18:36:32.092] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/dozier_rl_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:espressoitem: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:hotcoffeeitem'
+[22Oct2024 18:36:32.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/pulsar_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/small_iron_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/saketini_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/small_copper_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/freyr: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/scrapper_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/defender_pistol: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[22Oct2024 18:36:32.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/empty_blasphemy_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodcore:melonpieitem: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:melonpieitem'
+[22Oct2024 18:36:32.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/prush_gun: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.095] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/hardened_bullet: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.095] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/uppercut_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.095] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/venturi_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.095] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/vehement_coal: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
+[22Oct2024 18:36:32.095] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/musket: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.095] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/greaser_smg_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.095] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/inertial_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/gale_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_core: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/musket_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/raw_anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/sulfur: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/rocket_rifle_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/chunk_sulfur: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/sawed_off_callwell_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/pax_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/callwell_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/thunderhead: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.096] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_iron_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/handcannon: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/boomstick: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/gunpowder_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_diamond_steel_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/lone_wonder: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_shard: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[22Oct2024 18:36:32.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
+[22Oct2024 18:36:32.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/buckshot_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/gale: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/handcannon_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/locust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/standard_copper_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/medium_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_iron_blend_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/empty_blasphemy: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/gattaler_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/marlin: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
+[22Oct2024 18:36:32.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_3: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
+[22Oct2024 18:36:32.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_1: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
+[22Oct2024 18:36:32.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/flintlock_pistol: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/shotgun_shell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/packed_flesh_block_from_flesh_bits: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:compacting'
+[22Oct2024 18:36:32.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_copper_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.100] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/combat_shotgun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.100] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/phosphorite_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.100] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/gibbs_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.100] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_core: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
+[22Oct2024 18:36:32.100] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sulfur_chunk_from_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
+[22Oct2024 18:36:32.100] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/sulfur: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
+[22Oct2024 18:36:32.101] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:guns/venturi_from_gun_bench: com.google.gson.JsonSyntaxException: Unknown item 'scguns:venturi'
+[22Oct2024 18:36:32.101] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/phosphor: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
+[22Oct2024 18:36:32.101] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/bruiser_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.101] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/lockewood: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.102] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/sculk_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.102] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/soul_soil: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
+[22Oct2024 18:36:32.102] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodextended:gourmetmuttonburgeritem: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomitem'
+[22Oct2024 18:36:32.102] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/mas_55: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe pamhc2foodcore:honeymuffinitem: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinitem'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/arc_worker: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_copper_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/hog_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/iron_javeline: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/cogloader: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/heavy_gun_parts: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/sawed_off_callwell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/cyclone_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/laser_musket_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.104] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_brass_blend_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.104] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/venturi: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.104] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/dozier_rl: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.104] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/flintlock_pistol_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.104] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/plasgun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.104] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/gun_parts: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.104] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/heavy_gun_parts: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/boomstick_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/howler: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/astella_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/plasgun: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_1: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_iron_crushing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/sculk_resonator_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/vehement_coal: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/m3_carabine_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_iron_blend_splashing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/empty_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/osgood_50: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dirty_dust/from_clump: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:scamp_package: com.google.gson.JsonSyntaxException: Unknown item 'create:precision_mechanism'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ingot: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/compact_copper_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/llr_director_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/blasphemy_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/ancient_brass_brass_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[22Oct2024 18:36:32.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/pax: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/raygun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/empty_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/gyrojet_pistol_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
+[22Oct2024 18:36:32.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
+[22Oct2024 18:36:32.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/iron_spear: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/shellurker_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/marlin_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe lookinsharp:forging/vitalium_swords: com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
+[22Oct2024 18:36:32.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/gun_parts: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/umax_pistol: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_diamond_steel_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/osgood_50_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/howler_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/raygun: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/beowulf_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deepslate_coal_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/repeating_musket_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deepslate_anthralite_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/lockewood_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/shulker_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
+[22Oct2024 18:36:32.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/flesh_block_from_flesh_bits: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:compacting'
+[22Oct2024 18:36:32.111] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/inertial: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.111] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/earths_corpse_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.111] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/brawler: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.111] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scbrass:alloysmelter/brass: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:alloy'
+[22Oct2024 18:36:32.111] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/floundergat_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.111] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/carapice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.112] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_dirty_dust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[22Oct2024 18:36:32.112] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:guns/gale_from_gun_bench: com.google.gson.JsonSyntaxException: Unknown item 'scguns:gale'
+[22Oct2024 18:36:32.112] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sulfur_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.112] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[22Oct2024 18:36:32.112] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/greaser_smg: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.112] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/medium_diamond_steel_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.112] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/vehement_coal: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/energy_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/newborn_cyst_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/iron_spear_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/rocket: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/spitfire_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/umax_pistol_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/compact_advanced_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[22Oct2024 18:36:32.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/makeshift_rifle: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/pyroclastic_flow: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/cyclone: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/earths_corpse: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/thunderhead_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/howler_conversion_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/mk43_rifle: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/standard_bullet: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
+[22Oct2024 18:36:32.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/pulsar: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[22Oct2024 18:36:32.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/krauser: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/netherite_scrap_chunk: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/nether_coal_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/auvtomag: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/shock_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
+[22Oct2024 18:36:32.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/sculk_resonator: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
+[22Oct2024 18:36:32.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/prush_gun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/pyroclastic_flow_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[22Oct2024 18:36:32.116] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 19 recipes
+[22Oct2024 18:36:32.133] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement burnt:long_range_pyro: Expected item to be an item, was unknown string 'burnt:deleted_mod_element'
+[22Oct2024 18:36:32.153] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement scguns:main/iron/venturi: Expected item to be an item, was unknown string 'scguns:venturi'
+[22Oct2024 18:36:32.153] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement scguns:main/treated_brass/gale: Expected item to be an item, was unknown string 'scguns:gale'
+[22Oct2024 18:36:32.165] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement scguns:main/copper/umax_pistol: Expected item to be an item, was unknown string 'scguns:umax_pistol'
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/treated_brass/howler: Task Advancement{parentId=scguns:main/treated_brass/jackhammer, display=net.minecraft.advancements.DisplayInfo@74ba9cd7, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={howler=net.minecraft.advancements.Criterion@1960f8ae}, requirements=[[howler]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/iron/brawler: Task Advancement{parentId=scguns:main/iron/gyrojet_pistol, display=net.minecraft.advancements.DisplayInfo@e52b41e, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={brawler=net.minecraft.advancements.Criterion@106988f2}, requirements=[[brawler]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/blackpowder/musket: Task Advancement{parentId=scguns:main/blackpowder/musket, display=net.minecraft.advancements.DisplayInfo@2798cfbe, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={blunderbuss=net.minecraft.advancements.Criterion@7beafda7}, requirements=[[blunderbuss]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/iron/auvtomag: Task Advancement{parentId=scguns:main/iron/iron_spear, display=net.minecraft.advancements.DisplayInfo@328095a1, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={auvtomag=net.minecraft.advancements.Criterion@1eab4193}, requirements=[[auvtomag]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/treated_brass/gattaler: Task Advancement{parentId=scguns:main/treated_brass/spitfire, display=net.minecraft.advancements.DisplayInfo@32997fb3, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={gattaler=net.minecraft.advancements.Criterion@76fa07aa}, requirements=[[gattaler]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/iron/gyrojet_pistol: Task Advancement{parentId=scguns:main/iron/pulsar, display=net.minecraft.advancements.DisplayInfo@59bfb47, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={gyrojet_pistol=net.minecraft.advancements.Criterion@237a7b09}, requirements=[[gyrojet_pistol]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/treated_brass/howler_conversion: Task Advancement{parentId=scguns:main/treated_brass/howler, display=net.minecraft.advancements.DisplayInfo@29dae711, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={howler_conversion=net.minecraft.advancements.Criterion@59087310}, requirements=[[howler_conversion]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/treated_brass/thunderhead: Task Advancement{parentId=scguns:main/treated_brass/gattaler, display=net.minecraft.advancements.DisplayInfo@42931a2b, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={thunderhead=net.minecraft.advancements.Criterion@5819719a}, requirements=[[thunderhead]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/treated_brass/dozier_rl: Task Advancement{parentId=scguns:main/treated_brass/thunderhead, display=net.minecraft.advancements.DisplayInfo@4e003207, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={dozier_rl=net.minecraft.advancements.Criterion@5d061ffc}, requirements=[[dozier_rl]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/iron/iron_spear: Task Advancement{parentId=scguns:main/iron/iron_javelin, display=net.minecraft.advancements.DisplayInfo@1b0681d5, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={iron_spear=net.minecraft.advancements.Criterion@769284b6}, requirements=[[iron_spear]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/iron/pulsar: Task Advancement{parentId=scguns:main/iron/auvtomag, display=net.minecraft.advancements.DisplayInfo@5ac42579, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={pulsar=net.minecraft.advancements.Criterion@3891bda3}, requirements=[[pulsar]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/iron/rocket_rifle: Task Advancement{parentId=scguns:main/iron/brawler, display=net.minecraft.advancements.DisplayInfo@21177a4e, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={rocket_rifle=net.minecraft.advancements.Criterion@14deb76a}, requirements=[[rocket_rifle]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/treated_brass/jackhammer: Task Advancement{parentId=scguns:main/treated_brass/gale, display=net.minecraft.advancements.DisplayInfo@1c7c6be8, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={jackhammer=net.minecraft.advancements.Criterion@7df8eaea}, requirements=[[jackhammer]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement burnt:fire_arrow: Task Advancement{parentId=burnt:long_range_pyro, display=null, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={fire_arrow_0=net.minecraft.advancements.Criterion@32ec02b7}, requirements=[[fire_arrow_0]], sends_telemetry_event=false}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/treated_brass/gauss_rifle: Task Advancement{parentId=scguns:main/treated_brass/howler_conversion, display=net.minecraft.advancements.DisplayInfo@4c504bec, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={gauss_rifle=net.minecraft.advancements.Criterion@1e7b016b}, requirements=[[gauss_rifle]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/copper/arc_worker: Task Advancement{parentId=scguns:main/copper/umax_pistol, display=net.minecraft.advancements.DisplayInfo@e17297e, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={arc_worker=net.minecraft.advancements.Criterion@4821018e}, requirements=[[arc_worker]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/iron/iron_javelin: Task Advancement{parentId=scguns:main/iron/venturi, display=net.minecraft.advancements.DisplayInfo@2c93cb82, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={iron_javelin=net.minecraft.advancements.Criterion@6cfe92ef}, requirements=[[iron_javelin]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement scguns:main/treated_brass/spitfire: Task Advancement{parentId=scguns:main/treated_brass/gauss_rifle, display=net.minecraft.advancements.DisplayInfo@75fdbebb, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ab73de0}, criteria={spitfire=net.minecraft.advancements.Criterion@6d0c2301}, requirements=[[spitfire]], sends_telemetry_event=true}
+[22Oct2024 18:36:32.181] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3299 advancements
+[22Oct2024 18:36:32.187] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[22Oct2024 18:36:32.190] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[22Oct2024 18:36:32.192] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id lookinsharp:weakening_artifact - error: Not a JSON object: null
+[22Oct2024 18:36:32.225] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[22Oct2024 18:36:32.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Oct2024 18:36:32.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Oct2024 18:36:32.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Oct2024 18:36:32.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Oct2024 18:36:32.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 0.0.0.0:25572
+[22Oct2024 18:36:32.534] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Oct2024 18:36:32.587] [Server thread/INFO] [Puzzles Lib/]: Loading server config for leavesbegone
+[22Oct2024 18:36:32.610] [Server thread/INFO] [Framework/]: Loading server configs...
+[22Oct2024 18:36:32.682] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22Oct2024 18:36:32.878] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22Oct2024 18:36:32.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "Migraine Craft Anomalous Cordone World"
+[22Oct2024 18:36:32.926] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:overworld
+[22Oct2024 18:36:33.720] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:overworld
+[22Oct2024 18:36:33.994] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:the_end
+[22Oct2024 18:36:33.995] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:the_end
+[22Oct2024 18:36:34.003] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:the_nether
+[22Oct2024 18:36:34.084] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:the_nether
+[22Oct2024 18:36:34.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Oct2024 18:36:34.668] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Oct2024 18:36:34.668] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Oct2024 18:36:35.090] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[22Oct2024 18:36:35.490] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1402 ms
+[22Oct2024 18:36:35.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.907s)! For help, type "help"
+[22Oct2024 18:36:35.511] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Oct2024 18:36:35.512] [Server thread/INFO] [dynamiclights/]: [Dynamic Lights] Sending global config to server...
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $enable_on_fire to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $enable_glowing to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $enable_ghast to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $enchanted_items to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $amethyst_trimmed to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $fire_aspect to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $riptide to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $channeling to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $water_sensitive to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $enable_sound to 2
+[22Oct2024 18:36:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set [ts.dl.settings] for $rain_sensitive to 2
+[22Oct2024 18:36:35.519] [Server thread/INFO] [voicechat/]: [voicechat] Using the Minecraft servers port as voice chat port
+[22Oct2024 18:36:35.522] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Using server-ip as bind address: 0.0.0.0
+[22Oct2024 18:36:35.523] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at 0.0.0.0:25572
+[22Oct2024 18:36:35.523] [Server thread/WARN] [ModernFix/]: Dedicated server took 16.298 seconds to load
+[22Oct2024 18:36:35.545] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
+[22Oct2024 18:36:35.977] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[22Oct2024 18:36:35.980] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[22Oct2024 18:36:35.981] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[22Oct2024 18:36:38.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.8 Target: 0.7.11
+[22Oct2024 18:36:38.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[22Oct2024 18:36:38.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[22Oct2024 18:36:38.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[22Oct2024 18:36:38.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[22Oct2024 18:36:38.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Oct2024 18:36:38.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.11
+[22Oct2024 18:36:38.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[22Oct2024 18:36:38.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.24 Target: null
+[22Oct2024 18:36:38.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[22Oct2024 18:36:39.126] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.5 Target: null
+[22Oct2024 18:36:39.126] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[22Oct2024 18:36:39.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.11
+[22Oct2024 18:36:39.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[22Oct2024 18:36:39.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.0.15 Target: 8.1.24
+[22Oct2024 18:36:59.028] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RAJ_TAC is 669f2c65-26f2-4b30-a18b-0e68a34df768
+[22Oct2024 18:37:01.237] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[22Oct2024 18:37:01.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAJ_TAC[/174.110.84.213:12487] logged in with entity id 257 at (16.580173930249227, -24.0, 1020.6594374235931)
+[22Oct2024 18:37:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAJ_TAC joined the game
+[22Oct2024 18:37:01.369] [Server thread/INFO] [Jade/]: Syncing config to RAJ_TAC (669f2c65-26f2-4b30-a18b-0e68a34df768)
+[22Oct2024 18:37:01.903] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RAJ_TAC (18)
+[22Oct2024 18:37:01.904] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RAJ_TAC
+[22Oct2024 18:37:06.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 669f2c65-26f2-4b30-a18b-0e68a34df768
+[22Oct2024 18:37:07.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 669f2c65-26f2-4b30-a18b-0e68a34df768
+[22Oct2024 18:37:07.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RAJ_TAC (669f2c65-26f2-4b30-a18b-0e68a34df768) successfully connected to voice chat
+[22Oct2024 18:37:22.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Bearpack Shell] to RAJ_TAC]
+[22Oct2024 18:37:22.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 63 [Bearpack Shell] to RAJ_TAC]
+[22Oct2024 18:37:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:37:27.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:37:27.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:37:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:37:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:37:27.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:37:27.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:37:28.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:37:28.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:37:34.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Spider Prowler Spawn Egg] to RAJ_TAC]
+[22Oct2024 18:38:14.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Spider Prowler Spawn Egg] to RAJ_TAC]
+[22Oct2024 18:39:03.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Spectator Mode]
+[22Oct2024 18:39:30.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Survival Mode]
+[22Oct2024 18:39:51.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:39:51.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:39:51.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:39:51.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:39:52.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Burning Glands] to RAJ_TAC]
+[22Oct2024 18:41:10.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 50 experience levels to RAJ_TAC]
+[22Oct2024 18:41:23.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Spectator Mode]
+[22Oct2024 18:41:31.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Survival Mode]
+[22Oct2024 18:41:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Spectator Mode]
+[22Oct2024 18:41:41.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Survival Mode]
+[22Oct2024 18:41:46.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Spectator Mode]
+[22Oct2024 18:41:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Survival Mode]
+[22Oct2024 18:42:05.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 64 [Netherrack] to RAJ_TAC]
+[22Oct2024 18:44:24.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Applied enchantment Unbreaking III to RAJ_TAC's item]
+[22Oct2024 18:44:26.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Applied enchantment Unbreaking III to RAJ_TAC's item]
+[22Oct2024 18:44:53.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Oxidized Cut Copper Stairs] to RAJ_TAC]
+[22Oct2024 18:44:53.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Oxidized Cut Copper Stairs] to RAJ_TAC]
+[22Oct2024 18:44:53.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Chiseled Polished Blackstone] to RAJ_TAC]
+[22Oct2024 18:44:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Chiseled Deepslate] to RAJ_TAC]
+[22Oct2024 18:44:54.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Dark Oak Slab] to RAJ_TAC]
+[22Oct2024 18:44:54.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Jungle Pressure Plate] to RAJ_TAC]
+[22Oct2024 18:44:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Jungle Pressure Plate] to RAJ_TAC]
+[22Oct2024 18:44:54.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Jungle Pressure Plate] to RAJ_TAC]
+[22Oct2024 18:44:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Jungle Pressure Plate] to RAJ_TAC]
+[22Oct2024 18:44:54.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Jungle Pressure Plate] to RAJ_TAC]
+[22Oct2024 18:44:54.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Bamboo Fence Gate] to RAJ_TAC]
+[22Oct2024 18:44:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Waxed Exposed Cut Copper] to RAJ_TAC]
+[22Oct2024 18:44:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Pink Carpet] to RAJ_TAC]
+[22Oct2024 18:44:55.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Pink Carpet] to RAJ_TAC]
+[22Oct2024 18:44:55.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Cyan Stained Glass] to RAJ_TAC]
+[22Oct2024 18:44:55.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Red Glazed Terracotta] to RAJ_TAC]
+[22Oct2024 18:44:56.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Smooth Quartz Stairs] to RAJ_TAC]
+[22Oct2024 18:44:56.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Polished Blackstone Slab] to RAJ_TAC]
+[22Oct2024 18:44:57.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Stripped Acacia Wood] to RAJ_TAC]
+[22Oct2024 18:44:57.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Stripped Birch Wood] to RAJ_TAC]
+[22Oct2024 18:44:57.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Spruce Pressure Plate] to RAJ_TAC]
+[22Oct2024 18:44:58.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Spruce Trapdoor] to RAJ_TAC]
+[22Oct2024 18:44:58.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Crimson Trapdoor] to RAJ_TAC]
+[22Oct2024 18:44:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Crimson Trapdoor] to RAJ_TAC]
+[22Oct2024 18:44:59.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Exposed Copper] to RAJ_TAC]
+[22Oct2024 18:44:59.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Exposed Copper] to RAJ_TAC]
+[22Oct2024 18:44:59.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Waxed Weathered Cut Copper Stairs] to RAJ_TAC]
+[22Oct2024 18:45:00.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Purple Bed] to RAJ_TAC]
+[22Oct2024 18:45:00.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Magenta Candle] to RAJ_TAC]
+[22Oct2024 18:45:00.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:00.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:00.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:00.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:00.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:00.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:00.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:00.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:03.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:04.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:07.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:08.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:09.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:10.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:10.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:10.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:10.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:10.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:10.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:10.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:10.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:11.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:11.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:11.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:11.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:11.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Podzol] to RAJ_TAC]
+[22Oct2024 18:45:12.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:12.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:12.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:12.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:12.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:45:13.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Grass Block] to RAJ_TAC]
+[22Oct2024 18:47:12.267] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SmugDog_ is 397d729b-577c-48e4-9f6b-8bd2004db51e
+[22Oct2024 18:47:14.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SmugDog_[/75.157.133.110:49620] logged in with entity id 7138 at (153.70260635018136, 78.0, 124.56898912180074)
+[22Oct2024 18:47:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SmugDog_ joined the game
+[22Oct2024 18:47:14.494] [Server thread/INFO] [Jade/]: Syncing config to SmugDog_ (397d729b-577c-48e4-9f6b-8bd2004db51e)
+[22Oct2024 18:47:14.815] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SmugDog_ (18)
+[22Oct2024 18:47:14.815] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SmugDog_
+[22Oct2024 18:47:15.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 397d729b-577c-48e4-9f6b-8bd2004db51e
+[22Oct2024 18:47:16.788] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 397d729b-577c-48e4-9f6b-8bd2004db51e
+[22Oct2024 18:47:16.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SmugDog_ (397d729b-577c-48e4-9f6b-8bd2004db51e) successfully connected to voice chat
+[22Oct2024 18:47:24.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SmugDog_> mug
+[22Oct2024 18:47:38.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> hey smurgson
+[22Oct2024 18:49:18.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 64 [Bug Repellant] to RAJ_TAC]
+[22Oct2024 18:49:30.025] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CapselDesert is e7489793-c928-4ac8-8f57-b750d1550d9d
+[22Oct2024 18:49:32.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CapselDesert[/129.222.195.138:31870] logged in with entity id 9853 at (282.48653386343125, 70.0, -205.691187847634)
+[22Oct2024 18:49:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CapselDesert joined the game
+[22Oct2024 18:49:32.237] [Server thread/INFO] [Jade/]: Syncing config to CapselDesert (e7489793-c928-4ac8-8f57-b750d1550d9d)
+[22Oct2024 18:49:32.349] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CapselDesert (18)
+[22Oct2024 18:49:32.350] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CapselDesert
+[22Oct2024 18:49:33.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e7489793-c928-4ac8-8f57-b750d1550d9d
+[22Oct2024 18:49:34.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e7489793-c928-4ac8-8f57-b750d1550d9d
+[22Oct2024 18:49:34.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CapselDesert (e7489793-c928-4ac8-8f57-b750d1550d9d) successfully connected to voice chat
+[22Oct2024 18:49:43.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> hey bridan
+[22Oct2024 18:49:46.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> bredlan
+[22Oct2024 18:49:50.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CapselDesert> yuh
+[22Oct2024 18:49:54.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SmugDog_> brengimen
+[22Oct2024 18:49:59.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> i decided to just fight the acrtual bossman
+[22Oct2024 18:50:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> on the nether roof
+[22Oct2024 18:50:07.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CapselDesert> they are ez
+[22Oct2024 18:50:11.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> they arent that bad
+[22Oct2024 18:50:19.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> so instead of waiting 80 years for a spawn
+[22Oct2024 18:50:27.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> you can just summon them on the nether roof with an altar thingy
+[22Oct2024 18:50:31.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CapselDesert> yep
+[22Oct2024 18:50:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> now im just out of abyssal crystals
+[22Oct2024 18:51:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CapselDesert> there is a funny way to cheese them too
+[22Oct2024 18:51:42.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> is there?
+[22Oct2024 18:51:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> i just shot them alot
+[22Oct2024 18:53:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Spectator Mode]
+[22Oct2024 18:53:32.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[22Oct2024 18:53:51.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> u smell like goat milk
+[22Oct2024 18:54:37.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Creative Mode]
+[22Oct2024 18:54:46.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Spectator Mode]
+[22Oct2024 18:55:04.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Survival Mode]
+[22Oct2024 18:55:25.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 64 [Torch] to RAJ_TAC]
+[22Oct2024 18:57:29.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 64 [Torch] to RAJ_TAC]
+[22Oct2024 18:57:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CapselDesert was slain by Spider Jump
+[22Oct2024 18:57:56.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> fucking hate those things
+[22Oct2024 18:58:51.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Spectator Mode]
+[22Oct2024 18:58:59.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set own game mode to Survival Mode]
+[22Oct2024 18:59:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CapselDesert> ive never been damaged by one
+[22Oct2024 18:59:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: The difficulty has been set to Easy]
+[22Oct2024 18:59:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Spider Jump Spawn Egg] to RAJ_TAC]
+[22Oct2024 18:59:32.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> i've lost worlds to them
+[22Oct2024 19:00:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Mangled Scorpion Flesh] to RAJ_TAC]
+[22Oct2024 19:00:35.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Soul Sand] to RAJ_TAC]
+[22Oct2024 19:00:49.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 1 [Flint and Steel] to RAJ_TAC]
+[22Oct2024 19:01:03.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 64 [Bearpack Shell] to RAJ_TAC]
+[22Oct2024 19:04:11.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 64 [Arrow] to RAJ_TAC]
+[22Oct2024 19:04:13.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 64 [Arrow] to RAJ_TAC]
+[22Oct2024 19:04:14.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Gave 64 [Bearpack Shell] to RAJ_TAC]
+[22Oct2024 19:05:46.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RAJ_TAC: Set RAJ_TAC's sanity to 100.0]
+[22Oct2024 19:06:37.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> YESSS
+[22Oct2024 19:06:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> FINALLY
+[22Oct2024 19:06:55.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> i have enough now :3
+[22Oct2024 19:07:17.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> that fight cost me a netherite ingot
+[22Oct2024 19:07:24.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> i hate this boss sometimes
+[22Oct2024 19:07:25.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CapselDesert> crazy
+[22Oct2024 19:12:03.562] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Arikutsu is cf20c329-aa7d-44d5-b433-4ae3afeb5a41
+[22Oct2024 19:12:05.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arikutsu[/170.203.217.175:11304] logged in with entity id 66322 at (137.30000001192093, -54.0, 238.60362677568455)
+[22Oct2024 19:12:05.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arikutsu joined the game
+[22Oct2024 19:12:05.692] [Server thread/INFO] [Jade/]: Syncing config to Arikutsu (cf20c329-aa7d-44d5-b433-4ae3afeb5a41)
+[22Oct2024 19:12:06.216] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Arikutsu (18)
+[22Oct2024 19:12:06.217] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Arikutsu
+[22Oct2024 19:12:10.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf20c329-aa7d-44d5-b433-4ae3afeb5a41
+[22Oct2024 19:12:11.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf20c329-aa7d-44d5-b433-4ae3afeb5a41
+[22Oct2024 19:12:11.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Arikutsu (cf20c329-aa7d-44d5-b433-4ae3afeb5a41) successfully connected to voice chat
+[22Oct2024 19:12:24.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> aren
+[22Oct2024 19:12:27.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> arnal
+[22Oct2024 19:12:28.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arikutsu> ya?
+[22Oct2024 19:12:34.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> arthropod bosses so ez
+[22Oct2024 19:12:45.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> they so ez you dont even knorw
+[22Oct2024 19:12:45.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arikutsu> oh huge?
+[22Oct2024 19:12:49.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> vbry much ye
+[22Oct2024 19:13:11.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> im one boss kill away from a full set
+[22Oct2024 19:13:26.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arikutsu> Thats awesome
+[22Oct2024 19:17:06.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RAJ_TAC> drooling and eating moths
+[22Oct2024 19:17:48.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CapselDesert lost connection: Disconnected
+[22Oct2024 19:17:48.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CapselDesert left the game
+[22Oct2024 19:17:48.615] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CapselDesert
+[22Oct2024 19:18:33.249] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CapselDesert is e7489793-c928-4ac8-8f57-b750d1550d9d
+[22Oct2024 19:18:35.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CapselDesert[/129.222.195.138:10563] logged in with entity id 77988 at (-73.56002196254431, -16.0, 969.9868868432453)
+[22Oct2024 19:18:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CapselDesert joined the game
+[22Oct2024 19:18:35.477] [Server thread/INFO] [Jade/]: Syncing config to CapselDesert (e7489793-c928-4ac8-8f57-b750d1550d9d)
+[22Oct2024 19:18:35.966] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CapselDesert (18)
+[22Oct2024 19:18:35.966] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CapselDesert
+[22Oct2024 19:18:40.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e7489793-c928-4ac8-8f57-b750d1550d9d
+[22Oct2024 19:18:41.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e7489793-c928-4ac8-8f57-b750d1550d9d
+[22Oct2024 19:18:41.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CapselDesert (e7489793-c928-4ac8-8f57-b750d1550d9d) successfully connected to voice chat

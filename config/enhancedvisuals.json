@@ -1,0 +1,22 @@
+{
+  "messages": {
+    "deathMessages": [
+      "Do you really want to respawn? think of it again.",
+      "Life is hard. Deal with it!",
+      "You are dead ... wait you already know that.",
+      "Did I take a shower this morning?",
+      "Should have shot back first...",
+      "Yep, that\u0027s messed up...",
+      "Rage incomming!",
+      "I think you dropped something.",
+      "Time for a break?",
+      "GET. UP",
+      "They probably know where you live.",
+      "Hey, stop wasting precious time.",
+      "They Call.",
+      "More blood wouldnt hurt.",
+      ""
+    ],
+    "enabled": true
+  }
+}

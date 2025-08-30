@@ -1,0 +1,1062 @@
+[20:09:39] [main/INFO]: ModLauncher running: args [--username, RAJ_TAC, --version, 1.20.1, --gameDir, E:\modrinth\profiles\THE FLESH THAT GROWS (1), --assetsDir, E:\modrinth\meta\assets, --assetIndex, 5, --uuid, 669f2c6526f24b30a18b0e68a34df768, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 1920, --height, 1080, --launchTarget, forgeclient, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[20:09:39] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Azul Systems, Inc.; OS Windows 10 arch amd64 version 10.0
+[20:09:41] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[20:09:41] [main/INFO]: Trying GL version 4.6
+[20:09:42] [main/INFO]: Requested GL version 4.6 got version 4.6
+[20:09:42] [main/INFO]: Mixin Transmogrifier is definitely up to no good...
+[20:09:42] [main/INFO]: crimes against java were committed
+[20:09:42] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce GTX 1650/PCIe/SSE2 GL version 4.6.0 NVIDIA 580.97, NVIDIA Corporation
+[20:09:59] [main/WARN]: Found newer Essential Loader (stage2) version 1.6.5 [stable], skipping at user request
+[20:09:59] [main/INFO]: Starting Essential Loader (stage2) version 1.6.3 (285f951adc7537f49ae3ef9fc0d2fd3e) [stable]
+[20:09:59] [main/INFO]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[20:09:59] [main/INFO]: Setting up Koremods environment
+[20:09:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/E:/modrinth/profiles/THE%20FLESH%20THAT%20GROWS%20(1)/mods/Connector-1.0.0-beta.45+1.20.1.jar%23275%23281!/ Service=ModLauncher Env=CLIENT
+[20:13:36] [main/WARN]: Found newer Essential version 1.3.9 [stable], skipping at user request
+[20:13:36] [main/INFO]: Found mod file Connector-1.0.0-beta.45+1.20.1-mod.jar of type MOD with provider org.sinytra.connector.locator.ConnectorEarlyLocator@1846579f
+[20:13:36] [main/INFO]: Found mod file koremods-modlauncher-1.0.0-mod.jar of type MOD with provider wtf.gofancy.koremods.modlauncher.bootstrap.KoremodsModLocator@3abfe845
+[20:13:37] [main/INFO]: Found mod file [1.20.1] SecurityCraft v1.10.0.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file abandoned-villages-v1.0.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file antique-atlas-2.9.13+1.20.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ArPhEx-4.7b-forge-1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file artifacts-forge-9.5.13.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file azurelib-neo-1.20.1-2.0.30.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.9-all.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file BeansBackpacks-forge-1.20.1-2.0.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file biomancy-forge-1.20.1-2.8.19.0.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file BiomesOPlenty-forge-1.20.1-19.0.0.96.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file burnt_basic-1.9.0.3-forge-1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file cameraoverhaul-1.1-1.20.4.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file cavedust-2.0.4-1.20.1-forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Chunky-1.3.146.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file clock_hud-2.1.0-mc1.20.1-build.65.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file cloth-config-11.1.118-forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Clumps-forge-1.20.1-12.0.0.4.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file collective-1.20.1-7.84.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ConnectorExtras-1.11.2+1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Corgilib-Forge-1.20.1-4.0.3.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file craftingtweaks-forge-1.20.1-18.2.5.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file CreativeCore_FORGE_v2.12.32_mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file creeperoverhaul-3.0.2-forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file cullleaves-forge-3.2.0.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file curios-forge-5.10.0+1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file darkness-forge-1.20.1-2.0.103-fork.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Data_Anchor-forge-1.20.1-1.0.0.19.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file desolate-1.1.1-forge-1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file DungeonsArise-1.20.1-2.1.57-release.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file dynamic-fps-3.7.7+minecraft-1.20.0-forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file dynamiclights-v1.8.3-mc1.17x-1.21x-mod.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file embeddium-0.3.30+mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file endermanoverhaul-forge-1.20.1-1.0.4.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file entity_model_features_forge_1.20.1-2.1.3.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file entity_texture_features_forge_1.20.1-6.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file entityculling-forge-1.8.2-mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file fabric-api-0.92.2+1.11.8+1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ferritecore-6.0.1-forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file fight_or_die-1.20.1-1.1.4.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file firstaid-1.20.1-1.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file firstperson-forge-2.4.4-mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file foglooksmodernnow-1.2.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.8.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.4.7.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file GlitchCore-forge-1.20.1-0.0.1.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ImmediatelyFast-Forge-1.2.21+1.20.4.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file immersive_armors-1.7.1+1.20.1-forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ironchest-1.20.1-14.4.4.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ironshulkerbox-1.20.1-5.3.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ItemPhysic_FORGE_v1.7.1_mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Jade-1.20.1-Forge-11.13.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file JadeAddons-1.20.1-Forge-5.5.0.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.112.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file JustEnoughResources-1.20.1-1.4.0.247.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file justzoom_forge_1.0.2_MC_1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Kiwi-1.20.1-Forge-11.9.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file konkrete_forge_1.8.0_MC_1.20-1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file kotlinforforge-4.11.0-all.jar of type LIBRARY with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file LeavesBeGone-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file lookinsharp forge 1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file lucent-1.20.1-1.5.5.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file memoryleakfix-forge-1.17+-1.1.5.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file midnightlib-forge-1.4.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file modernfix-forge-5.19.4+mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file MRU-1.0.2+1.20.1+forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file nightlights-1.20.1-1.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file NoChatReports-FORGE-1.20.1-v2.2.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file notenoughanimations-forge-1.7.4-mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ObsidianUI-forge-0.2.3+mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file OctoLib-FORGE-0.4.2+1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file oculus-mc1.20.1-1.7.0.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file OpticManager_FORGE_v1.3.0_mc1.20.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file pamhc2crops-1.20-1.0.3.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file pamhc2foodcore-1.20.4-1.0.5.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file pamhc2foodextended-1.20.4-1.0.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file pamhc2trees-1.20-1.0.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file PuzzlesLib-v8.0.15-1.20.1-Forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file relics-1.20.1-0.8.0.7.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file resourcefulconfig-forge-1.20.1-2.1.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.28.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Rotted_1.20.1_1.0.5.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file sanitydim-mc1.20-1.1.0.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ScorchedBrass-0.0.1-1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ScorchedGuns-0.4.1-1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file screenshot_viewer-1.3.2-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file servercore-forge-1.5.2+1.20.1.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file SmartBrainLib-forge-1.20.1-1.15.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file sons-of-sins-1.20.1-2.1.9.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file sound-physics-remastered-forge-1.20.1-1.4.15.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file Sounds-2.2.1+1.20.1+forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file starlight-1.1.2+forge.1cda73c.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.7.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file TFTH 1.1b.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file ToolStats-Forge-1.20.1-16.0.9.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file TrapperPelts-forge-1.20.1-1.0.1.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file TreeChop-1.20.1-forge-0.19.0.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file UndergroundBunkers-1.0.5-1.20.x-forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file VisualWorkbench-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file voicechat-forge-1.20.1-2.5.27.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file welcomemessage-1.20.1-2.6.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:37] [main/INFO]: Found mod file XeKr's Decoration-1.20.1-Forge-0.9.2.jar of type MOD with provider {mods folder locator at E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods}
+[20:13:38] [main/WARN]: Mod file E:\modrinth\meta\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.7\fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20:13:38] [main/WARN]: Mod file E:\modrinth\meta\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.7\javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20:13:38] [main/WARN]: Mod file E:\modrinth\meta\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.7\lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20:13:38] [main/WARN]: Mod file E:\modrinth\meta\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.7\mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20:13:38] [main/INFO]: Found mod file fmlcore-1.20.1-47.3.7.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@859ea42
+[20:13:38] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.3.7.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@859ea42
+[20:13:38] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.3.7.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@859ea42
+[20:13:38] [main/INFO]: Found mod file mclanguage-1.20.1-47.3.7.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@859ea42
+[20:13:38] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@859ea42
+[20:13:38] [main/INFO]: Found mod file forge-1.20.1-47.3.7-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@859ea42
+[20:13:39] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[20:13:39] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods\resourcefullib-forge-1.20.1-2.1.28.jar
+[20:13:39] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: E:\modrinth\profiles\THE FLESH THAT GROWS (1)\mods\architectury-9.2.14-forge.jar
+[20:13:39] [main/INFO]: Found 89 dependencies adding them to mods collection
+[20:13:39] [main/INFO]: Found mod file fabric-transfer-api-v1-3.3.5+631c9cd677.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-dimensions-v1-2.1.54+8005d10d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file NanoLiveConfig-1.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file common-io-3.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file kuma-api-forge-20.1.8+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-renderer-api-v1-3.2.1+1d29b44577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file dazzleconf-core-1.3.0-M2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file kfflang-4.11.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file kubejs-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-item-api-v1-2.1.28+4d0bbcfa77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-model-loading-api-v1-1.0.3+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file modmenu-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file Connector-1.0.0-beta.45+1.20.1-fabricloader.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-rendering-fluids-v1-3.0.28+4ac5e37a77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file pehkui-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-screen-handler-api-v1-1.3.30+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-models-v0-0.4.2+7c3892a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-resource-loader-v0-0.11.10+bcd08ed377.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file snakeyaml-2.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file TRender-1.0.5-1.20.1-forge-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-rendering-v1-3.0.8+66e9a48f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-renderer-indigo-1.5.2+b5b2da4177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-convention-tags-v1-1.5.5+fa3d1c0177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-mining-level-api-v1-2.1.50+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-command-api-v1-1.2.34+f71b366f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-block-view-api-v2-1.0.1+0767707077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-command-api-v2-2.2.13+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-data-attachment-api-v1-1.0.0+30ef839e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file rei-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file geckolib-fabric-compat-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file common-image-3.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-screen-api-v1-2.0.8+45a670a577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file imageio-metadata-3.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file energy-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-particles-v1-1.1.2+78e1ecb877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file gson-0.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file dazzleconf-ext-snakeyaml-1.3.0-M2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-content-registries-v0-4.0.11+a670df1e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file Reflect-1.3.4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-transitive-access-wideners-v1-4.3.1+1880499877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file h2-mvstore-2.3.232.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file terrablender-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-game-rule-api-v1-1.0.40+683d4da877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-api-base-0.4.31+ef105b4977.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file runtime-1.0.0+1.20.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-api-lookup-api-v1-1.6.36+67f9824077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-blockrenderlayer-v1-1.1.41+1d0da21e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file battery-1.3.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file extras-utils-1.11.2+1.20.1.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file amecsapi-1.5.3+mc1.20-pre1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file imageio-core-3.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-block-api-v1-1.0.11+0e6cb7f777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file json-0.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file httpmime-4.5.10.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file jei-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file reach-entity-attributes-2.4.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file forgeconfigapiport-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file kffmod-4.11.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file kfflib-4.11.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file architectury-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file bytecodecs-1.0.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file common-lang-3.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-item-group-api-v1-4.0.12+c9161c2d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file imageio-webp-3.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file jcpp-1.4.14.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-biome-api-v1-13.0.13+dc36698e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-entity-events-v1-1.6.0+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-registry-sync-v0-2.3.3+1c0ea72177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file yabn-1.0.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-recipe-api-v1-1.0.21+514a076577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-loot-api-v2-1.2.1+eb28f93e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file MixinExtras-0.5.0-beta.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-object-builder-api-v1-11.1.3+2174fc8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file yet-another-config-lib-3.5.0+1.20.1-forge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file TRansition-1.0.3-1.20.1-forge-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-rendering-data-attachment-v1-0.3.37+a6081afc77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-networking-api-v1-1.3.11+503a202477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-sound-api-v1-1.0.13+4f23bd8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-message-api-v1-5.1.9+52cc178c77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file expandability-forge-9.0.4.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file emi-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-lifecycle-events-v1-2.2.22+afab492177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-data-generation-api-v1-12.3.4+369cb3a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-events-interaction-v0-0.6.2+0d0bd5a777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-key-binding-api-v1-1.0.37+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Found mod file fabric-client-tags-api-v1-1.1.2+5d6761b877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@343e225a
+[20:13:39] [main/INFO]: Fabric mod metadata not found in jar thedarkcolour.kotlinforforge, ignoring
+[20:13:40] [main/INFO]: Dependency resolution found 4 candidates to load
+[20:13:41] [main/INFO]: Found mod file antique-atlas-2.9.13+1.20$surveyor-0.6.21+1.20$kaleido-config-0.3.1+1.3.1_mapped_srg_1.20.1.jar of type MOD with provider org.sinytra.connector.locator.ConnectorLocator@b768a65
+[20:13:41] [main/INFO]: Found mod file antique-atlas-2.9.13+1.20_mapped_srg_1.20.1.jar of type MOD with provider org.sinytra.connector.locator.ConnectorLocator@b768a65
+[20:13:41] [main/INFO]: Found mod file dark-waters-connector-1.20.1-0.0.22_mapped_srg_1.20.1.jar of type MOD with provider org.sinytra.connector.locator.ConnectorLocator@b768a65
+[20:13:41] [main/INFO]: Found mod file antique-atlas-2.9.13+1.20$surveyor-0.6.21+1.20_mapped_srg_1.20.1.jar of type MOD with provider org.sinytra.connector.locator.ConnectorLocator@b768a65
+[20:13:41] [main/INFO]: Found launch plugin: wtf.gofancy.koremods.modlauncher.service.ModlauncherKoremodsLaunchPlugin
+[20:13:41] [main/INFO]: Launching Koremods instance
+[20:13:41] [main/DEBUG]: Scanning paths for Koremods script packs
+[20:13:41] [main/DEBUG]: Scanning abandoned-villages-v1.0.1.jar
+[20:13:41] [main/DEBUG]: Scanning AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning antique-atlas-2.9.13+1.20.jar
+[20:13:41] [main/DEBUG]: Scanning appleskin-forge-mc1.20.1-2.5.1.jar
+[20:13:41] [main/DEBUG]: Scanning architectury-9.2.14-forge.jar
+[20:13:41] [main/DEBUG]: Scanning ArPhEx-4.7b-forge-1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning artifacts-forge-9.5.13.jar
+[20:13:41] [main/DEBUG]: Scanning azurelib-neo-1.20.1-2.0.30.jar
+[20:13:41] [main/DEBUG]: Scanning balm-forge-1.20.1-7.3.9-all.jar
+[20:13:41] [main/DEBUG]: Scanning BeansBackpacks-forge-1.20.1-2.0.2.jar
+[20:13:41] [main/DEBUG]: Scanning biomancy-forge-1.20.1-2.8.19.0.jar
+[20:13:41] [main/DEBUG]: Scanning BiomesOPlenty-forge-1.20.1-19.0.0.96.jar
+[20:13:41] [main/DEBUG]: Scanning Bookshelf-Forge-1.20.1-20.2.13.jar
+[20:13:41] [main/DEBUG]: Scanning burnt_basic-1.9.0.3-forge-1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning cameraoverhaul-1.1-1.20.4.jar
+[20:13:41] [main/DEBUG]: Scanning carryon-forge-1.20.1-2.1.2.7.jar
+[20:13:41] [main/DEBUG]: Scanning cavedust-2.0.4-1.20.1-forge.jar
+[20:13:41] [main/DEBUG]: Scanning Chunky-1.3.146.jar
+[20:13:41] [main/DEBUG]: Scanning clock_hud-2.1.0-mc1.20.1-build.65.jar
+[20:13:41] [main/DEBUG]: Scanning cloth-config-11.1.118-forge.jar
+[20:13:41] [main/DEBUG]: Scanning Clumps-forge-1.20.1-12.0.0.4.jar
+[20:13:41] [main/DEBUG]: Scanning collective-1.20.1-7.84.jar
+[20:13:41] [main/DEBUG]: Scanning Connector-1.0.0-beta.45+1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning ConnectorExtras-1.11.2+1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning Controlling-forge-1.20.1-12.0.2.jar
+[20:13:41] [main/DEBUG]: Scanning Corgilib-Forge-1.20.1-4.0.3.2.jar
+[20:13:41] [main/DEBUG]: Scanning craftingtweaks-forge-1.20.1-18.2.5.jar
+[20:13:41] [main/DEBUG]: Scanning CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning creeperoverhaul-3.0.2-forge.jar
+[20:13:41] [main/DEBUG]: Scanning cullleaves-forge-3.2.0.jar
+[20:13:41] [main/DEBUG]: Scanning curios-forge-5.10.0+1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning dark-waters-connector-1.20.1-0.0.22.jar
+[20:13:41] [main/DEBUG]: Scanning darkness-forge-1.20.1-2.0.103-fork.jar
+[20:13:41] [main/DEBUG]: Scanning Data_Anchor-forge-1.20.1-1.0.0.19.jar
+[20:13:41] [main/DEBUG]: Scanning desolate-1.1.1-forge-1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning DungeonsArise-1.20.1-2.1.57-release.jar
+[20:13:41] [main/DEBUG]: Scanning dynamic-fps-3.7.7+minecraft-1.20.0-forge.jar
+[20:13:41] [main/DEBUG]: Scanning dynamiclights-v1.8.3-mc1.17x-1.21x-mod.jar
+[20:13:41] [main/DEBUG]: Scanning embeddium-0.3.30+mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar
+[20:13:41] [main/DEBUG]: Scanning endermanoverhaul-forge-1.20.1-1.0.4.jar
+[20:13:41] [main/DEBUG]: Scanning Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar
+[20:13:41] [main/DEBUG]: Scanning EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning entityculling-forge-1.8.2-mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning entity_model_features_forge_1.20.1-2.1.3.jar
+[20:13:41] [main/DEBUG]: Scanning entity_texture_features_forge_1.20.1-6.2.jar
+[20:13:41] [main/DEBUG]: Scanning essential_1-3-4_forge_1-20-1.jar
+[20:13:41] [main/DEBUG]: Scanning fabric-api-0.92.2+1.11.8+1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning ferritecore-6.0.1-forge.jar
+[20:13:41] [main/DEBUG]: Scanning fight_or_die-1.20.1-1.1.4.jar
+[20:13:41] [main/DEBUG]: Scanning firstaid-1.20.1-1.1.jar
+[20:13:41] [main/DEBUG]: Scanning firstperson-forge-2.4.4-mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning foglooksmodernnow-1.2.1.jar
+[20:13:41] [main/DEBUG]: Scanning framework-forge-1.20.1-0.7.8.jar
+[20:13:41] [main/DEBUG]: Scanning geckolib-forge-1.20.1-4.4.7.jar
+[20:13:41] [main/DEBUG]: Scanning GlitchCore-forge-1.20.1-0.0.1.1.jar
+[20:13:41] [main/DEBUG]: Scanning ImmediatelyFast-Forge-1.2.21+1.20.4.jar
+[20:13:41] [main/DEBUG]: Scanning immersive_armors-1.7.1+1.20.1-forge.jar
+[20:13:41] [main/DEBUG]: Scanning ironchest-1.20.1-14.4.4.jar
+[20:13:41] [main/DEBUG]: Scanning ironshulkerbox-1.20.1-5.3.2.jar
+[20:13:41] [main/DEBUG]: Scanning ItemPhysic_FORGE_v1.7.1_mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning Jade-1.20.1-Forge-11.13.2.jar
+[20:13:41] [main/DEBUG]: Scanning JadeAddons-1.20.1-Forge-5.5.0.jar
+[20:13:41] [main/DEBUG]: Scanning jei-1.20.1-forge-15.20.0.112.jar
+[20:13:41] [main/DEBUG]: Scanning JustEnoughResources-1.20.1-1.4.0.247.jar
+[20:13:41] [main/DEBUG]: Scanning justzoom_forge_1.0.2_MC_1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning Kiwi-1.20.1-Forge-11.9.2.jar
+[20:13:41] [main/DEBUG]: Scanning konkrete_forge_1.8.0_MC_1.20-1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning koremods-modlauncher-1.0.0.jar
+[20:13:41] [main/DEBUG]: Scanning kotlinforforge-4.11.0-all.jar
+[20:13:41] [main/DEBUG]: Scanning LeavesBeGone-v8.0.0-1.20.1-Forge.jar
+[20:13:41] [main/DEBUG]: Scanning lookinsharp forge 1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning lucent-1.20.1-1.5.5.jar
+[20:13:41] [main/DEBUG]: Scanning memoryleakfix-forge-1.17+-1.1.5.jar
+[20:13:41] [main/DEBUG]: Scanning midnightlib-forge-1.4.2.jar
+[20:13:41] [main/DEBUG]: Scanning modernfix-forge-5.19.4+mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning MRU-1.0.2+1.20.1+forge.jar
+[20:13:41] [main/DEBUG]: Scanning nightlights-1.20.1-1.1.jar
+[20:13:41] [main/DEBUG]: Scanning NoChatReports-FORGE-1.20.1-v2.2.2.jar
+[20:13:41] [main/DEBUG]: Scanning notenoughanimations-forge-1.7.4-mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning ObsidianUI-forge-0.2.3+mc1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning OctoLib-FORGE-0.4.2+1.20.1.jar
+[20:13:41] [main/DEBUG]: Scanning oculus-mc1.20.1-1.7.0.jar
+[20:13:41] [main/DEBUG]: Scanning OpticManager_FORGE_v1.3.0_mc1.20.jar
+[20:13:41] [main/DEBUG]: Scanning pamhc2crops-1.20-1.0.3.jar
+[20:13:41] [main/DEBUG]: Scanning pamhc2foodcore-1.20.4-1.0.5.jar
+[20:13:41] [main/DEBUG]: Scanning pamhc2foodextended-1.20.4-1.0.1.jar
+[20:13:41] [main/DEBUG]: Scanning pamhc2trees-1.20-1.0.2.jar
+[20:13:41] [main/DEBUG]: Scanning player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[20:13:41] [main/DEBUG]: Scanning PuzzlesLib-v8.0.15-1.20.1-Forge.jar
+[20:13:41] [main/DEBUG]: Scanning relics-1.20.1-0.8.0.7.jar
+[20:13:41] [main/DEBUG]: Scanning resourcefulconfig-forge-1.20.1-2.1.2.jar
+[20:13:41] [main/DEBUG]: Scanning resourcefullib-forge-1.20.1-2.1.28.jar
+[20:13:41] [main/DEBUG]: Scanning Rotted_1.20.1_1.0.5.jar
+[20:13:42] [main/DEBUG]: Scanning rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar
+[20:13:42] [main/DEBUG]: Scanning sanitydim-mc1.20-1.1.0.jar
+[20:13:42] [main/DEBUG]: Scanning ScorchedBrass-0.0.1-1.20.1.jar
+[20:13:42] [main/DEBUG]: Scanning ScorchedGuns-0.4.1-1.20.1.jar
+[20:13:42] [main/DEBUG]: Scanning screenshot_viewer-1.3.2-forge-mc1.20.1.jar
+[20:13:42] [main/DEBUG]: Scanning Searchables-forge-1.20.1-1.0.3.jar
+[20:13:42] [main/DEBUG]: Scanning servercore-forge-1.5.2+1.20.1.jar
+[20:13:42] [main/DEBUG]: Scanning SmartBrainLib-forge-1.20.1-1.15.jar
+[20:13:42] [main/DEBUG]: Scanning sons-of-sins-1.20.1-2.1.9.jar
+[20:13:42] [main/DEBUG]: Scanning sound-physics-remastered-forge-1.20.1-1.4.15.jar
+[20:13:42] [main/DEBUG]: Scanning Sounds-2.2.1+1.20.1+forge.jar
+[20:13:42] [main/DEBUG]: Scanning starlight-1.1.2+forge.1cda73c.jar
+[20:13:42] [main/DEBUG]: Scanning TerraBlender-forge-1.20.1-3.0.1.7.jar
+[20:13:42] [main/DEBUG]: Scanning TFTH 1.1b.jar
+[20:13:42] [main/DEBUG]: Scanning ToolStats-Forge-1.20.1-16.0.9.jar
+[20:13:42] [main/DEBUG]: Scanning TrapperPelts-forge-1.20.1-1.0.1.2.jar
+[20:13:42] [main/DEBUG]: Scanning TreeChop-1.20.1-forge-0.19.0.jar
+[20:13:42] [main/DEBUG]: Scanning UndergroundBunkers-1.0.5-1.20.x-forge.jar
+[20:13:42] [main/DEBUG]: Scanning VisualWorkbench-v8.0.0-1.20.1-Forge.jar
+[20:13:42] [main/DEBUG]: Scanning voicechat-forge-1.20.1-2.5.27.jar
+[20:13:42] [main/DEBUG]: Scanning welcomemessage-1.20.1-2.6.jar
+[20:13:42] [main/DEBUG]: Scanning XeKr's Decoration-1.20.1-Forge-0.9.2.jar
+[20:13:42] [main/DEBUG]: Scanning [1.20.1] SecurityCraft v1.10.0.1.jar
+[20:13:42] [main/INFO]: Reading compiled scripts
+[20:13:42] [main/INFO]: Discovering script packs finished successfully
+[20:13:42] [main/INFO]: Found Kotlin-containing mod Jar[union:/E:/modrinth/profiles/THE%20FLESH%20THAT%20GROWS%20(1)/essential/libraries/forge_1.20.1/kotlin-for-forge-4.3.0-slim.jar%23293!/], checking whether we need to upgrade it..
+[20:13:42] [main/INFO]: Found outdated Kotlin core libs 0.0.0 (we ship 1.9.23)
+[20:13:42] [main/INFO]: Found outdated Kotlin Coroutines libs 0.0.0 (we ship 1.8.0)
+[20:13:42] [main/INFO]: Found outdated Kotlin Serialization libs 0.0.0 (we ship 1.6.3)
+[20:13:42] [main/INFO]: Generating jar with updated Kotlin at C:\Users\admin\AppData\Local\Temp\kff-updated-kotlin-15185634576058624816-4.3.0-slim.jar
+[20:13:43] [main/INFO]: Found Kotlin-containing mod Jar[union:/E:/modrinth/profiles/THE%20FLESH%20THAT%20GROWS%20(1)/mods/kotlinforforge-4.11.0-all.jar%23363!/], checking whether we need to upgrade it..
+[20:13:43] [main/INFO]: Found up-to-date Kotlin core libs 2.0.0 (we ship 1.9.23)
+[20:13:43] [main/INFO]: Found up-to-date Kotlin Coroutines libs 1.8.1 (we ship 1.8.0)
+[20:13:43] [main/INFO]: Found up-to-date Kotlin Serialization libs 1.6.3 (we ship 1.6.3)
+[20:13:43] [main/INFO]: All good, no update needed: Jar[union:/E:/modrinth/profiles/THE%20FLESH%20THAT%20GROWS%20(1)/mods/kotlinforforge-4.11.0-all.jar%23363!/]
+[20:13:44] [main/INFO]: Verifying script packs
+[20:13:44] [main/INFO]: Successfully made module authlib transformable
+[20:13:47] [main/INFO]: Compatibility level set to JAVA_17
+[20:13:49] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[20:13:49] [main/INFO]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[20:13:49] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, E:\modrinth\profiles\THE FLESH THAT GROWS (1), --assetsDir, E:\modrinth\meta\assets, --uuid, 669f2c6526f24b30a18b0e68a34df768, --username, RAJ_TAC, --assetIndex, 5, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 1920, --height, 1080]
+[20:13:49] [main/INFO]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 84 options available, 0 override(s) found
+[20:13:49] [main/INFO]: Applying Nashorn fix
+[20:13:49] [main/INFO]: Applied Forge config corruption patch
+[20:13:49] [main/INFO]: Loaded configuration file for Embeddium: 229 options available, 3 override(s) found
+[20:13:49] [main/INFO]: Searching for graphics cards...
+[20:13:50] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=UNKNOWN, name=Parsec Virtual Display Adapter, version=DriverVersion=0.45.0.0]
+[20:13:50] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce GTX 1650, version=DriverVersion=32.0.15.8097]
+[20:13:50] [main/WARN]: Embeddium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[20:13:50] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[20:13:50] [main/INFO]: Starting Essential v1.3.4 (#ffe87e84d7) [stable]
+[20:13:51] [main/WARN]: Reference map 'mixins.sons_of_sins.refmap.json' for mixins.sons_of_sins.json could not be read. If this is a development environment you can ignore this message
+[20:13:51] [main/INFO]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[20:13:51] [main/WARN]: Reference map 'clock_hud-common-common-refmap.json' for forge-clock_hud-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:13:51] [main/WARN]: Reference map 'lookinsharp-forge-1.20.1-forge-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:13:52] [main/WARN]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:13:54] [main/WARN]: Error loading class: com/simibubi/create/content/equipment/armor/BacktankBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.equipment.armor.BacktankBlockEntity)
+[20:13:54] [main/WARN]: @Mixin target com.simibubi.create.content.equipment.armor.BacktankBlockEntity was not found jadeaddons.mixins.json:create.BacktankBlockEntityAccess from mod jadeaddons
+[20:13:54] [main/WARN]: Error loading class: com/simibubi/create/content/equipment/blueprint/BlueprintOverlayRenderer (java.lang.ClassNotFoundException: com.simibubi.create.content.equipment.blueprint.BlueprintOverlayRenderer)
+[20:13:54] [main/WARN]: @Mixin target com.simibubi.create.content.equipment.blueprint.BlueprintOverlayRenderer was not found jadeaddons.mixins.json:create.BlueprintOverlayRendererAccess from mod jadeaddons
+[20:13:54] [main/WARN]: Error loading class: com/simibubi/create/content/logistics/filter/FilterItem (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.filter.FilterItem)
+[20:13:54] [main/WARN]: @Mixin target com.simibubi.create.content.logistics.filter.FilterItem was not found jadeaddons.mixins.json:create.FilterItemAccess from mod jadeaddons
+[20:13:55] [main/WARN]: Error loading class: me/cominixo/betterf3/modules/TargetModule (java.lang.ClassNotFoundException: me.cominixo.betterf3.modules.TargetModule)
+[20:13:55] [main/WARN]: @Mixin target me.cominixo.betterf3.modules.TargetModule was not found securitycraft.mixins.json:f3.BetterF3TargetModuleMixin from mod securitycraft
+[20:13:55] [main/WARN]: Error loading class: me/shedaniel/rei/plugin/common/displays/crafting/DefaultCraftingDisplay (java.lang.ClassNotFoundException: me.shedaniel.rei.plugin.common.displays.crafting.DefaultCraftingDisplay)
+[20:13:55] [main/WARN]: @Mixin target me.shedaniel.rei.plugin.common.displays.crafting.DefaultCraftingDisplay was not found xkdeco.mixins.json:rei.DefaultCraftingDisplayMixin from mod xkdeco
+[20:13:55] [main/WARN]: Error loading class: net/raphimc/immediatelyfast/feature/core/ImmediateAdapter (java.lang.ClassNotFoundException: net.raphimc.immediatelyfast.feature.core.ImmediateAdapter)
+[20:13:55] [main/WARN]: Error loading class: net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource (java.lang.ClassNotFoundException: net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource)
+[20:13:55] [main/WARN]: Error loading class: net/coderbot/iris/layer/InnerWrappedRenderType (java.lang.ClassNotFoundException: net.coderbot.iris.layer.InnerWrappedRenderType)
+[20:13:55] [main/WARN]: Error loading class: net/coderbot/iris/layer/OuterWrappedRenderType (java.lang.ClassNotFoundException: net.coderbot.iris.layer.OuterWrappedRenderType)
+[20:13:55] [main/WARN]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev.tr7zw.skinlayers.render.CustomizableModelPart)
+[20:13:56] [main/WARN]: Error loading class: dev/emi/emi/screen/EmiScreenManager (java.lang.ClassNotFoundException: dev.emi.emi.screen.EmiScreenManager)
+[20:13:56] [main/WARN]: Error loading class: net/strobel/inventive_inventory/features/sorting/SortingHandler (java.lang.ClassNotFoundException: net.strobel.inventive_inventory.features.sorting.SortingHandler)
+[20:13:56] [main/WARN]: Error loading class: de/rubixdev/inventorio/player/InventorioScreenHandler (java.lang.ClassNotFoundException: de.rubixdev.inventorio.player.InventorioScreenHandler)
+[20:13:56] [main/WARN]: Error loading class: net/blay09/mods/trashslot/client/deletion/DefaultDeletionProvider (java.lang.ClassNotFoundException: net.blay09.mods.trashslot.client.deletion.DefaultDeletionProvider)
+[20:13:56] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[20:13:56] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[20:13:56] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[20:13:57] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[20:13:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.2).
+[20:13:57] [main/INFO]: Mixing client.MixinMinecraft from mixins/common/nochatreports.mixins.json into net.minecraft.client.Minecraft
+[20:13:59] [main/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[20:13:59] [main/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[20:13:59] [main/WARN]: Disabling further attempts to query Paging File.
+[20:14:00] [main/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[20:14:00] [pool-4-thread-1/INFO]: ModernFix reached bootstrap stage (4.442 min after launch)
+[20:14:01] [pool-4-thread-1/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
+[20:14:01] [pool-4-thread-1/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md652e60$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[20:14:01] [pool-4-thread-1/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md652e60$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[20:14:01] [pool-4-thread-1/WARN]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[20:14:01] [pool-4-thread-1/WARN]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[20:14:01] [pool-4-thread-1/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[20:14:01] [pool-4-thread-1/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[20:14:01] [pool-4-thread-1/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity from mod sanitydim::handler$dfo001$sanitydim$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20:14:03] [pool-4-thread-1/INFO]: Vanilla bootstrap took 2194 milliseconds
+[20:14:05] [pool-4-thread-1/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[20:14:07] [Render thread/INFO]: Mixing client.MixinChatScreen from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.screens.ChatScreen
+[20:14:07] [Render thread/INFO]: Renaming synthetic method lambda$onInit$4()Lnet/minecraft/network/chat/Component; to md652e60$nochatreports$lambda$onInit$4$0 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[20:14:07] [Render thread/INFO]: Renaming synthetic method lambda$onInit$3(Lnet/minecraft/client/gui/components/Button;)V to md652e60$nochatreports$lambda$onInit$3$1 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[20:14:07] [Render thread/INFO]: Renaming synthetic method lambda$onInit$2()Lnet/minecraft/network/chat/Component; to md652e60$nochatreports$lambda$onInit$2$2 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[20:14:07] [Render thread/INFO]: Renaming synthetic method lambda$onInit$1(Lnet/minecraft/client/gui/components/Button;)V to md652e60$nochatreports$lambda$onInit$1$3 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[20:14:07] [Render thread/INFO]: Renaming synthetic method lambda$onBeforeMessage$0(Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lcom/aizistral/nochatreports/common/encryption/Encryptor;)V to md652e60$nochatreports$lambda$onBeforeMessage$0$4 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[20:14:07] [Render thread/INFO]: Mixing client.MixinTitleScreen from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.screens.TitleScreen
+[20:14:07] [Render thread/WARN]: Assets URL 'union:/E:/modrinth/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23410!/assets/.mcassetsroot' uses unexpected schema
+[20:14:07] [Render thread/WARN]: Assets URL 'union:/E:/modrinth/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23410!/data/.mcassetsroot' uses unexpected schema
+[20:14:07] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:14:07] [Render thread/INFO]: Mixing client.MixinYggdrasilUserApiService from mixins/common/nochatreports.mixins.json into com.mojang.authlib.yggdrasil.YggdrasilUserApiService
+[20:14:07] [Render thread/INFO]: Setting user: RAJ_TAC
+[20:14:07] [Render thread/INFO]: Bypassed Mojang DFU
+[20:14:07] [Render thread/INFO]: Mixing client.MixinToastComponent from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.components.toasts.ToastComponent
+[20:14:08] [Render thread/INFO]: [Surveyor] is not a map mod
+[20:14:08] [Render thread/INFO]: Registered darkwaters config for auto-sync function
+[20:14:08] [Render thread/INFO]: Mixing client.MixinClientPacketListener from mixins/common/nochatreports.mixins.json into net.minecraft.client.multiplayer.ClientPacketListener
+[20:14:08] [Render thread/INFO]: Mixing client.MixinClientPacketListener from mixins/forge/nochatreports-forge.mixins.json into net.minecraft.client.multiplayer.ClientPacketListener
+[20:14:08] [Render thread/INFO]: [Surveyor Client] is not a map mod either
+[20:14:08] [Render thread/INFO]: amecsapi.mixins.json:KeyMappingLookupAccessor from mod amecsapi->@Accessor[FIELD_GETTER]::getMap()Ljava/util/EnumMap; should be static as its target is
+[20:14:08] [Render thread/INFO]: Mixing client.MixinOptions from mixins/common/nochatreports.mixins.json into net.minecraft.client.Options
+[20:14:08] [Render thread/INFO]: Renaming synthetic method lambda$onlyShowSecureChat$0(Ljava/lang/Boolean;)V to md652e60$nochatreports$lambda$onlyShowSecureChat$0$0 in mixins/common/nochatreports.mixins.json:client.MixinOptions from mod nochatreports
+[20:14:08] [Render thread/INFO]: Mixing client.MixinChatComponent from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.components.ChatComponent
+[20:14:08] [Render thread/INFO]: Renaming synthetic method lambda$modifyGUIMessage$1()V to md652e60$nochatreports$lambda$modifyGUIMessage$1$0 in mixins/common/nochatreports.mixins.json:client.MixinChatComponent from mod nochatreports
+[20:14:08] [Render thread/INFO]: Renaming synthetic method lambda$modifyGUIMessage$0(Lnet/minecraft/network/chat/FormattedText;Lnet/minecraft/network/chat/Component;)V to md652e60$nochatreports$lambda$modifyGUIMessage$0$1 in mixins/common/nochatreports.mixins.json:client.MixinChatComponent from mod nochatreports
+[20:14:08] [Render thread/INFO]: Mixing client.MixinGuiMessageTagIcon from mixins/common/nochatreports.mixins.json into net.minecraft.client.GuiMessageTag$Icon
+[20:14:08] [Render thread/INFO]: Renaming @Invoker method create(Ljava/lang/String;IIIII)Lnet/minecraft/client/GuiMessageTag$Icon; to create$nochatreports_$md$652e60$0 in mixins/common/nochatreports.mixins.json:client.MixinGuiMessageTagIcon from mod nochatreports
+[20:14:08] [Render thread/INFO]: Mixing client.MixinServerData from mixins/common/nochatreports.mixins.json into net.minecraft.client.multiplayer.ServerData
+[20:14:10] [Render thread/INFO]: OptiFine not detected.
+[20:14:10] [Render thread/INFO]: Added resource packs: [mod_resources, vanilla, fabric, file/§6Better Lights.zip, file/VanillaTweaks_r919010_MC1.20.x.zip, file/Serified Font v1.1 f1-34.zip, xkdeco_mimic_wall, file/Blues_Better_Zombies_v0.10.zip, file/Blues_Better_Skeletons_v0.01.zip]
+[20:14:10] [Render thread/INFO]: Starting DI!
+[20:14:10] [Render thread/INFO]: Authenticating to Mojang as RAJ_TAC (669f2c65-26f2-4b30-a18b-0e68a34df768)
+[20:14:10] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[20:14:10] [Render thread/WARN]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[20:14:10] [Render thread/ERROR]: Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
+[20:14:10] [Render thread/WARN]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptions, which may cause instability.
+[20:14:10] [DefaultDispatcher-worker-3/INFO]: Connecting to Essential Connection Manager...
+[20:14:10] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[20:14:10] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce GTX 1650/PCIe/SSE2
+[20:14:10] [Render thread/INFO]: OpenGL Version: 4.6.0 NVIDIA 580.97
+[20:14:10] [Render thread/WARN]: Enabling secondary workaround for NVIDIA threaded optimizations
+[20:14:10] [DefaultDispatcher-worker-3/INFO]: Using Default JreDnsResolver
+[20:14:11] [DefaultDispatcher-worker-3/INFO]: Using Default JreSocketFactory
+[20:14:11] [Render thread/INFO]: Initializing ImmediatelyFast 1.2.21+1.20.4 on NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation) with OpenGL 4.6.0 NVIDIA 580.97
+[20:14:11] [Render thread/INFO]: Found Iris/Oculus 1.7.0. Enabling compatibility.
+[20:14:11] [WebSocketConnectReadThread-83/INFO]: Connected to Essential Connection Manager.
+[20:14:11] [Render thread/INFO]: Debug functionality is disabled.
+[20:14:11] [Render thread/INFO]: OpenGL 4.5 detected, enabling DSA.
+[20:14:11] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[20:14:11] [Render thread/INFO]: Shaders are disabled
+[20:14:11] [modloading-worker-0/INFO]: Injecting TerraBlender API classes
+[20:14:11] [modloading-worker-0/WARN]: Mod(s) [oculus, embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI, which may cause instability.
+[20:14:11] [modloading-worker-0/INFO]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
+[20:14:12] [modloading-worker-0/INFO]: Saving config to E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\toolstats.json.
+[20:14:12] [modloading-worker-0/INFO]: Mixing client.MixinClientConnection from mixins/forge/nochatreports-forge.mixins.json into net.minecraft.network.Connection
+[20:14:12] [modloading-worker-0/INFO]: Constructing common components for leavesbegone:main
+[20:14:12] [modloading-worker-0/INFO]: Kiwi Customization is enabled
+[20:14:12] [modloading-worker-0/INFO]: Dynamic FPS 3.7.7 active on Forge!
+[20:14:12] [modloading-worker-0/INFO]: Constructing common components for visualworkbench:main
+[20:14:12] [modloading-worker-0/INFO]: [ServerCore] Loaded V1.5.2+1.20.1!
+[20:14:12] [modloading-worker-0/INFO]: [Indigo] Registering Indigo renderer!
+[20:14:12] [modloading-worker-0/INFO]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20:14:12] [modloading-worker-0/INFO]: MinecraftForge v47.3.7 Initialized
+[20:14:12] [modloading-worker-0/INFO]: KONNICHIWA ZA WARUDO!
+[20:14:12] [modloading-worker-0/INFO]: Default JVM text encoding is: windows-1252
+[20:14:12] [modloading-worker-0/INFO]: Reading config file NoChatReports/NCR-Common.json...
+[20:14:12] [modloading-worker-0/INFO]: Reading config file NoChatReports/NCR-Client.json...
+[20:14:12] [modloading-worker-0/INFO]: Reading config file NoChatReports/NCR-ServerPreferences.json...
+[20:14:12] [modloading-worker-0/INFO]: Reading config file NoChatReports/NCR-Encryption.json...
+[20:14:13] [modloading-worker-0/INFO]: Constructing common components for puzzleslib:main
+[20:14:13] [modloading-worker-0/INFO]: Constructing client components for visualworkbench:main
+[20:14:13] [modloading-worker-0/INFO]: [Dynamic Lights] Registering server started event...
+[20:14:13] [modloading-worker-0/INFO]: Writing config file NoChatReports/NCR-Common.json...
+[20:14:13] [modloading-worker-0/INFO]: Writing config file NoChatReports/NCR-Client.json...
+[20:14:13] [modloading-worker-0/INFO]: Writing config file NoChatReports/NCR-ServerPreferences.json...
+[20:14:13] [modloading-worker-0/INFO]: Writing config file NoChatReports/NCR-Encryption.json...
+[20:14:13] [modloading-worker-0/INFO]: Client initialization...
+[20:14:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[20:14:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[20:14:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[20:14:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[20:14:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[20:14:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[20:14:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[20:14:13] [modloading-worker-0/INFO]: Loading Entity Model Features, Trabee got the flu!
+[20:14:13] [modloading-worker-0/WARN]: Method overwrite conflict for isHidden in firstperson.mixins.json:ModelPartMixin from mod firstperson, previously written by net.irisshaders.iris.compat.sodium.mixin.copyEntity.ModelPartMixin. Skipping method.
+[20:14:13] [modloading-worker-0/INFO]: Processing 8 KiwiModule annotations
+[20:14:13] [modloading-worker-0/INFO]: Loading Entity Texture Features, also known as ETF!
+[20:14:13] [modloading-worker-0/INFO]: Applying dimension config example.toml
+[20:14:13] [modloading-worker-0/INFO]: [KONKRETE] Successfully initialized!
+[20:14:13] [modloading-worker-0/INFO]: [KONKRETE] Server-side libs ready to use!
+[20:14:13] [modloading-worker-0/INFO]: Loading Collective version 7.84.
+[20:14:14] [modloading-worker-0/INFO]: Initializing Beans' Backpacks Constants
+[20:14:14] [modloading-worker-0/INFO]: Initializing Beans' Backpacks Common
+[20:14:14] [modloading-worker-0/INFO]: Initializing Beans' Backpacks Forge
+[20:14:14] [modloading-worker-0/INFO]: 6 new ETF Random Properties registered by entity_model_features.
+[20:14:14] [modloading-worker-0/INFO]: Mixing client.MixinClientHandshakePacketListenerImpl from mixins/forge/nochatreports-forge.mixins.json into net.minecraft.client.multiplayer.ClientHandshakePacketListenerImpl
+[20:14:14] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[20:14:14] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[20:14:14] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[20:14:14] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[20:14:14] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[20:14:14] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[20:14:14] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[20:14:14] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[20:14:14] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[20:14:14] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[20:14:14] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[20:14:14] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[20:14:14] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[20:14:14] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[20:14:14] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[20:14:14] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[20:14:14] [modloading-worker-0/INFO]: Registered azurelib config for auto-sync function
+[20:14:14] [modloading-worker-0/INFO]: Loaded config file.
+[20:14:14] [modloading-worker-0/INFO]: Saved config file.
+[20:14:15] [modloading-worker-0/INFO]: Sending ConfigManager...
+[20:14:15] [modloading-worker-0/INFO]: Sending ConfigManager took 7.290 ms
+[20:14:15] [modloading-worker-0/INFO]: Deserializing YACLConfig from 'E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\yacl.json5'
+[20:14:15] [modloading-worker-0/INFO]: Deserializing WorldSoundsConfig from 'E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\sounds\world.json'
+[20:14:15] [modloading-worker-0/INFO]: Deserializing EventSoundsConfig from 'E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\sounds\event.json'
+[20:14:15] [modloading-worker-0/INFO]: Deserializing ChatSoundsConfig from 'E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\sounds\chat.json'
+[20:14:15] [modloading-worker-0/INFO]: Constructed Koremods mod instance
+[20:14:15] [modloading-worker-0/INFO]: Deserializing UISoundsConfig from 'E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\sounds\ui.json'
+[20:14:15] [modloading-worker-0/INFO]: Config file 'E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\sounds\mod_utils.json' does not exist. Creating it with default values.
+[20:14:15] [modloading-worker-0/INFO]: Serializing class dev.imb11.sounds.config.ModConfig to 'E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\sounds\mod_utils.json'
+[20:14:15] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[20:14:15] [modloading-worker-0/INFO]: Serializing class dev.imb11.sounds.config.ChatSoundsConfig to 'E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\sounds\chat.json'
+[20:14:15] [modloading-worker-0/INFO]: Kotlin For Forge Enabled!
+[20:14:16] [Render thread/INFO]: Capturing existing worldgen registries
+[20:14:16] [Render thread/INFO]: Found 0 injected RegistryDataLoader worldgen registries
+[20:14:17] [Render thread/INFO]: Module [xkdeco:recipes] initialized
+[20:14:17] [Render thread/INFO]: 		recipe_serializer: 1
+[20:14:17] [Render thread/INFO]: Module [xkdeco:entity_types] initialized
+[20:14:17] [Render thread/INFO]: 		block_entity_type: 5
+[20:14:17] [Render thread/INFO]: Module [kiwi:block_templates] initialized
+[20:14:17] [Render thread/INFO]: 		kiwi:block_template: 2
+[20:14:17] [Render thread/INFO]: Module [kiwi:builder_rules] initialized
+[20:14:17] [Render thread/INFO]: 		kiwi:builder_rule: 2
+[20:14:17] [Render thread/INFO]: Module [kiwi:block_components] initialized
+[20:14:17] [Render thread/INFO]: 		kiwi:block_component: 10
+[20:14:17] [Render thread/INFO]: Module [kiwi:data] initialized
+[20:14:17] [Render thread/INFO]: 		recipe_serializer: 3
+[20:14:17] [Render thread/INFO]: Module [kiwi:item_templates] initialized
+[20:14:17] [Render thread/INFO]: 		kiwi:item_template: 3
+[20:14:17] [Render thread/WARN]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@60dde2c2 has been registered twice for the same name treechop:chop_wood.
+[20:14:19] [Render thread/ERROR]: Failed to parse xkdeco:kiwi/block/ebony_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[20:14:19] [Render thread/ERROR]: Failed to parse xkdeco:kiwi/block/full_glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[20:14:19] [Render thread/ERROR]: Failed to parse xkdeco:kiwi/block/glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[20:14:19] [Render thread/ERROR]: Failed to parse xkdeco:kiwi/block/iron_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[20:14:19] [Render thread/ERROR]: Failed to parse xkdeco:kiwi/block/mahogany_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[20:14:19] [Render thread/ERROR]: Failed to parse xkdeco:kiwi/block/varnished_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[20:14:19] [Render thread/WARN]: Shape xkdeco:wooden_table is not registered
+[20:14:19] [Render thread/WARN]: Shape xkdeco:wooden_big_table is not registered
+[20:14:19] [Render thread/WARN]: Shape xkdeco:wooden_desk is not registered
+[20:14:19] [Render thread/WARN]: Shape xkdeco:wooden_table is not registered
+[20:14:19] [Render thread/WARN]: Shape xkdeco:wooden_big_table is not registered
+[20:14:19] [Render thread/WARN]: Shape xkdeco:wooden_desk is not registered
+[20:14:19] [Render thread/WARN]: Shape xkdeco:wooden_table is not registered
+[20:14:19] [Render thread/WARN]: Shape xkdeco:wooden_big_table is not registered
+[20:14:19] [Render thread/WARN]: Shape xkdeco:wooden_desk is not registered
+[20:14:20] [Render thread/WARN]: Shape xkdeco:roofed_lamp is not registered
+[20:14:20] [Render thread/WARN]: Shape xkdeco:wooden_window is not registered
+[20:14:20] [Render thread/WARN]: Shape xkdeco:wooden_awning_window is not registered
+[20:14:20] [Render thread/WARN]: Shape xkdeco:wooden_window is not registered
+[20:14:20] [Render thread/WARN]: Shape xkdeco:wooden_awning_window is not registered
+[20:14:20] [Render thread/WARN]: Shape xkdeco:wooden_window is not registered
+[20:14:20] [Render thread/WARN]: Shape xkdeco:wooden_awning_window is not registered
+[20:14:22] [Render thread/INFO]: Instantiating Mojang DFU
+[20:14:23] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 246 milliseconds
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@4a8742ce has been registered twice for the same name scguns:mechanical_pressing.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@71937afb has been registered twice for the same name scguns:powered_mechanical_pressing.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@65db8d49 has been registered twice for the same name scguns:macerating.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@9ff546f has been registered twice for the same name scguns:powered_macerating.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@7d1deb22 has been registered twice for the same name scguns:gun_bench.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@6ae581b6 has been registered twice for the same name scguns:lightning_battery.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@4a8742ce has been registered twice for the same name scguns:mechanical_pressing.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@71937afb has been registered twice for the same name scguns:powered_mechanical_pressing.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@65db8d49 has been registered twice for the same name scguns:macerating.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@9ff546f has been registered twice for the same name scguns:powered_macerating.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@7d1deb22 has been registered twice for the same name scguns:gun_bench.
+[20:14:23] [Render thread/WARN]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@6ae581b6 has been registered twice for the same name scguns:lightning_battery.
+[20:14:23] [Render thread/INFO]: Replacing search trees with 'JEI' provider
+[20:14:23] [Render thread/WARN]: Removed resource pack xkdeco_mimic_wall from options because it doesn't seem to exist anymore
+[20:14:24] [Render thread/INFO]: Block securitycraft:reinforced_dispenser had its color provider replaced and will not use per-vertex coloring
+[20:14:24] [Render thread/INFO]: Block securitycraft:reinforced_dropper had its color provider replaced and will not use per-vertex coloring
+[20:14:24] [Render thread/INFO]: Block securitycraft:reinforced_hopper had its color provider replaced and will not use per-vertex coloring
+[20:14:24] [Render thread/INFO]: Block securitycraft:reinforced_observer had its color provider replaced and will not use per-vertex coloring
+[20:14:24] [Render thread/INFO]: Block securitycraft:reinforced_grass_block had its color provider replaced and will not use per-vertex coloring
+[20:14:24] [Render thread/INFO]: Block securitycraft:reinforced_water_cauldron had its color provider replaced and will not use per-vertex coloring
+[20:14:25] [Render thread/INFO]: Hardware information:
+[20:14:25] [Render thread/INFO]: CPU: 12x AMD Ryzen 5 3600 6-Core Processor 
+[20:14:25] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1650/PCIe/SSE2 (Supports OpenGL 4.6.0 NVIDIA 580.97)
+[20:14:25] [Render thread/INFO]: OS: Windows 10 (10.0)
+[20:14:25] [Render thread/WARN]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.VertexFormatDescriptionImpl, which may cause instability.
+[20:14:25] [Render thread/WARN]: Mod(s) [entity_texture_features, oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.buffer.SodiumBufferBuilder, which may cause instability.
+[20:14:26] [Render thread/INFO]: Initialized Density Manager
+[20:14:26] [Render thread/WARN]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.SodiumWorldRenderer, which may cause instability.
+[20:14:27] [Finalizer/WARN]: One or more BufferBuilders have been leaked, ModernFix will attempt to correct this.
+[20:14:31] [Render thread/INFO]: Mixing client.MixinChatListener from mixins/common/nochatreports.mixins.json into net.minecraft.client.multiplayer.chat.ChatListener
+[20:14:31] [Render thread/INFO]: Invalidating pack caches
+[20:14:31] [Render thread/INFO]: Reloading ResourceManager: mod_resources, vanilla, fabric, file/§6Better Lights.zip, file/VanillaTweaks_r919010_MC1.20.x.zip, file/Serified Font v1.1 f1-34.zip, file/Blues_Better_Zombies_v0.10.zip, file/Blues_Better_Skeletons_v0.01.zip, Essential Assets, essential
+[20:14:31] [Render thread/INFO]: Mixing client.MixinJoinMultiplayerScreen from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen
+[20:14:31] [Render thread/INFO]: Renaming synthetic method lambda$onInit$2()Lnet/minecraft/network/chat/Component; to md652e60$nochatreports$lambda$onInit$2$1 in mixins/common/nochatreports.mixins.json:client.MixinJoinMultiplayerScreen from mod nochatreports
+[20:14:31] [Render thread/INFO]: Renaming synthetic method lambda$onInit$1(Lnet/minecraft/client/gui/components/Button;)V to md652e60$nochatreports$lambda$onInit$1$2 in mixins/common/nochatreports.mixins.json:client.MixinJoinMultiplayerScreen from mod nochatreports
+[20:14:31] [Render thread/INFO]: Renaming synthetic method lambda$onInit$0(Lnet/minecraft/client/gui/components/Button;)V to md652e60$nochatreports$lambda$onInit$0$3 in mixins/common/nochatreports.mixins.json:client.MixinJoinMultiplayerScreen from mod nochatreports
+[20:14:31] [modloading-worker-0/WARN]: Configuration file E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\scguns-client.toml is not correct. Correcting
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.immersiveGunInfo was corrected from null to its default, false. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.cinematicGunEffects was corrected from null to its default, true. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.fireLights was corrected from null to its default, true. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.puritySeals was corrected from null to its default, true. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.dynamicCrosshairBaseSpread was corrected from null to its default, 1.0. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.dynamicCrosshairSpreadMultiplier was corrected from null to its default, 1.0. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.dynamicCrosshairReactivity was corrected from null to its default, 2.0. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.dynamicCrosshairDotMode was corrected from null to its default, AT_MIN_SPREAD. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.onlyRenderDotWhileAiming was corrected from null to its default, true. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.dynamicCrosshairDotThreshold was corrected from null to its default, 0.8. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.dynamicCrosshairMaxScale was corrected from null to its default, 8.0. 
+[20:14:31] [modloading-worker-0/WARN]: Incorrect key client.display.renderArms was corrected from null to its default, true. 
+[20:14:31] [modloading-worker-0/INFO]: Loading client config for visualworkbench
+[20:14:32] [modloading-worker-0/INFO]: Initialized Config Values
+[20:14:32] [modloading-worker-0/WARN]: Configuration file E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\securitycraft-client.toml is not correct. Correcting
+[20:14:32] [modloading-worker-0/WARN]: Incorrect key frame_feed_render_distance was corrected from null to its default, 16. 
+[20:14:32] [modloading-worker-0/WARN]: Incorrect key frame_feed_resolution was corrected from null to its default, 512. 
+[20:14:32] [modloading-worker-0/WARN]: Incorrect key frame_feed_fps_limit was corrected from null to its default, 30. 
+[20:14:32] [Worker-ResourceReload-4/WARN]: Failed to find block entries for tag key: minecraft:cauldrons
+[20:14:33] [Worker-ResourceReload-4/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[20:14:33] [Thread-1/INFO]: Please use /mfrc to reload any changed mod config files
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/fleshidle.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_piece_idle
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/humanagro.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_hysterizer
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/humanidleone.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_human_idle
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/creaturethreeagro.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_community_idle
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/creaturethreeidle.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_incubator_one
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/smallplaqueidle.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_infector
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/fleshwalk.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_walk
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/swarmeragro.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_dog
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/fleshcow_idle.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_cow_idle
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/fleshpig_idle.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_pig_idle
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/fleshsheep_idle.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_sheep_idle
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/skeletonplaqueidle.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_hunter_i
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/nightmareplaqueidle.ogg does not exist, cannot add it to event the_flesh_that_hates:incubator_spawn
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/flesh_suffer_idle.ogg does not exist, cannot add it to event the_flesh_that_hates:flesh_suffer_idle
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/fleshhuntertwoidle.ogg does not exist, cannot add it to event the_flesh_that_hates:fleshhuntertwoidle
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/fleshboomeridle.ogg does not exist, cannot add it to event the_flesh_that_hates:fleshboomeridle
+[20:14:33] [Worker-ResourceReload-5/WARN]: File the_flesh_that_hates:sounds/fleshboomerboom.ogg does not exist, cannot add it to event the_flesh_that_hates:fleshboomerboom
+[20:14:34] [DefaultDispatcher-worker-14/INFO]: Connected to Discord as rajtac
+[20:14:34] [Render thread/WARN]: Shader cabb2374eda405e66b897908637abd1da5deac52 could not find uniform named subpixel_amount in the specified shader program.
+[20:14:34] [Render thread/INFO]: Mixing client.MixinRowHelper from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.layouts.GridLayout$RowHelper
+[20:14:34] [Render thread/INFO]: Mixing client.MixinChatOptionsScreen from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.screens.ChatOptionsScreen
+[20:14:34] [Render thread/INFO]: Renaming synthetic method lambda$init$0(Lnet/minecraft/client/gui/components/AbstractWidget;)V to md652e60$nochatreports$lambda$init$0$0 in mixins/common/nochatreports.mixins.json:client.MixinChatOptionsScreen from mod nochatreports
+[20:14:35] [DefaultDispatcher-worker-4/ERROR]: Recieved invalid data, assuming that Discord has disconnected from the socket.
+[20:14:36] [Worker-ResourceReload-2/WARN]: Unable to find texture beansbackpacks:textures/trims/trim_button_default.png
+[20:14:41] [Worker-ResourceReload-9/INFO]: [Antique Atlas] Metadata not present for antique_atlas:textures/atlas/tile/structure/village/taiga/tall_house.png - using defaults.
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/advanced_composter.json' in resourcepack: 'mod_resources' for variant: 'level=8,facing=north,ready=true': Unknown blockstate property: 'ready'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/advanced_composter.json' in resourcepack: 'mod_resources' for variant: 'level=8,facing=west,ready=true': Unknown blockstate property: 'ready'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/advanced_composter.json' in resourcepack: 'mod_resources' for variant: 'level=8,facing=east,ready=true': Unknown blockstate property: 'ready'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/advanced_composter.json' in resourcepack: 'mod_resources' for variant: 'level=8,facing=south,ready=true': Unknown blockstate property: 'ready'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/turret_targeting_module.json' missing model for variant: 'scguns:turret_targeting_module#connected=false,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/turret_targeting_module.json' missing model for variant: 'scguns:turret_targeting_module#connected=false,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/turret_targeting_module.json' missing model for variant: 'scguns:turret_targeting_module#connected=true,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/turret_targeting_module.json' missing model for variant: 'scguns:turret_targeting_module#connected=true,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/player_turret_targeting_module.json' missing model for variant: 'scguns:player_turret_targeting_module#connected=true,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/player_turret_targeting_module.json' missing model for variant: 'scguns:player_turret_targeting_module#connected=false,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/player_turret_targeting_module.json' missing model for variant: 'scguns:player_turret_targeting_module#connected=false,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/player_turret_targeting_module.json' missing model for variant: 'scguns:player_turret_targeting_module#connected=true,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/hostile_turret_targeting_module.json' missing model for variant: 'scguns:hostile_turret_targeting_module#connected=false,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/hostile_turret_targeting_module.json' missing model for variant: 'scguns:hostile_turret_targeting_module#connected=true,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/hostile_turret_targeting_module.json' missing model for variant: 'scguns:hostile_turret_targeting_module#connected=false,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/hostile_turret_targeting_module.json' missing model for variant: 'scguns:hostile_turret_targeting_module#connected=true,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/fire_rate_turret_module.json' missing model for variant: 'scguns:fire_rate_turret_module#connected=true,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/fire_rate_turret_module.json' missing model for variant: 'scguns:fire_rate_turret_module#connected=true,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/fire_rate_turret_module.json' missing model for variant: 'scguns:fire_rate_turret_module#connected=false,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/fire_rate_turret_module.json' missing model for variant: 'scguns:fire_rate_turret_module#connected=false,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/damage_turret_module.json' missing model for variant: 'scguns:damage_turret_module#connected=true,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/damage_turret_module.json' missing model for variant: 'scguns:damage_turret_module#connected=true,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/damage_turret_module.json' missing model for variant: 'scguns:damage_turret_module#connected=false,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/damage_turret_module.json' missing model for variant: 'scguns:damage_turret_module#connected=false,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/range_turret_module.json' missing model for variant: 'scguns:range_turret_module#connected=false,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/range_turret_module.json' missing model for variant: 'scguns:range_turret_module#connected=false,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/range_turret_module.json' missing model for variant: 'scguns:range_turret_module#connected=true,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/range_turret_module.json' missing model for variant: 'scguns:range_turret_module#connected=true,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/shell_catcher_turret_module.json' missing model for variant: 'scguns:shell_catcher_turret_module#connected=false,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/shell_catcher_turret_module.json' missing model for variant: 'scguns:shell_catcher_turret_module#connected=false,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/shell_catcher_turret_module.json' missing model for variant: 'scguns:shell_catcher_turret_module#connected=true,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/shell_catcher_turret_module.json' missing model for variant: 'scguns:shell_catcher_turret_module#connected=true,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/ammo_turret_module.json' missing model for variant: 'scguns:ammo_turret_module#connected=false,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/ammo_turret_module.json' missing model for variant: 'scguns:ammo_turret_module#connected=false,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/ammo_turret_module.json' missing model for variant: 'scguns:ammo_turret_module#connected=true,facing=down'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Exception loading blockstate definition: 'scguns:blockstates/ammo_turret_module.json' missing model for variant: 'scguns:ammo_turret_module#connected=true,facing=up'
+[20:14:47] [Worker-ResourceReload-5/WARN]: Unable to load model: 'xkdeco:block/template_roof_small_end_right_top' referenced from: xkdeco:black_roof_small_end#facing=north,half=lower,shape=left,variant=normal,waterlogged=true: java.io.FileNotFoundException: xkdeco:models/block/template_roof_small_end_right_top.json
+[20:14:47] [Worker-ResourceReload-5/WARN]: Unable to load model: 'xkdeco:block/template_roof_small_end_left_top' referenced from: xkdeco:black_roof_small_end#facing=north,half=lower,shape=left,variant=normal,waterlogged=true: java.io.FileNotFoundException: xkdeco:models/block/template_roof_small_end_left_top.json
+[20:14:47] [Worker-ResourceReload-5/WARN]: Unable to load model: 'xkdeco:block/template_roof_small_ridge_end_steep' referenced from: xkdeco:blue_roof_small_ridge_end#facing=north,variant=normal,waterlogged=true: java.io.FileNotFoundException: xkdeco:models/block/template_roof_small_ridge_end_steep.json
+[20:14:47] [Worker-ResourceReload-5/WARN]: Unable to load model: 'xkdeco:block/furniture/varnished_screen_top_hinge' referenced from: xkdeco:varnished_screen#facing=north,half=upper,hinge=left,open=true,powered=true: java.io.FileNotFoundException: xkdeco:models/block/furniture/varnished_screen_top_hinge.json
+[20:14:47] [Worker-ResourceReload-5/WARN]: Unable to load model: 'xkdeco:block/furniture/varnished_screen_top' referenced from: xkdeco:varnished_screen#facing=north,half=upper,hinge=left,open=true,powered=true: java.io.FileNotFoundException: xkdeco:models/block/furniture/varnished_screen_top.json
+[20:14:47] [Worker-ResourceReload-5/WARN]: Unable to load model: 'xkdeco:block/furniture/varnished_screen_bottom' referenced from: xkdeco:varnished_screen#facing=north,half=upper,hinge=left,open=true,powered=true: java.io.FileNotFoundException: xkdeco:models/block/furniture/varnished_screen_bottom.json
+[20:14:47] [Worker-ResourceReload-5/WARN]: Unable to load model: 'xkdeco:block/furniture/varnished_screen_bottom_hinge' referenced from: xkdeco:varnished_screen#facing=north,half=upper,hinge=left,open=true,powered=true: java.io.FileNotFoundException: xkdeco:models/block/furniture/varnished_screen_bottom_hinge.json
+[20:14:47] [Worker-ResourceReload-5/WARN]: Unable to load model: 'minecraft:block/door_bottom' referenced from: xkdeco:ebony_screen#facing=north,half=upper,hinge=left,open=true,powered=true: java.io.FileNotFoundException: minecraft:models/block/door_bottom.json
+[20:14:48] [Worker-ResourceReload-9/WARN]: Unused frames in sprite burnt:block/smoldering_log_side_1: [8, 9, 10, 11, 12, 13, 14, 15]
+[20:14:49] [Worker-ResourceReload-10/WARN]: Unused frames in sprite burnt:block/tar_flow: [23]
+[20:14:49] [Worker-ResourceReload-10/WARN]: Invalid frame index on sprite burnt:block/burnt_soul_log frame 1: 1
+[20:14:49] [Worker-ResourceReload-10/WARN]: Invalid frame index on sprite burnt:block/burnt_soul_log frame 2: 2
+[20:14:49] [Worker-ResourceReload-10/WARN]: Invalid frame index on sprite burnt:block/burnt_soul_log frame 3: 3
+[20:14:49] [Worker-ResourceReload-10/WARN]: Invalid frame index on sprite burnt:block/burnt_soul_log frame 4: 4
+[20:14:49] [Worker-ResourceReload-10/WARN]: Invalid frame index on sprite burnt:block/burnt_soul_log frame 5: 5
+[20:14:49] [Worker-ResourceReload-10/WARN]: Invalid frame index on sprite burnt:block/burnt_soul_log frame 6: 6
+[20:14:49] [Worker-ResourceReload-10/WARN]: Invalid frame index on sprite burnt:block/burnt_soul_log frame 7: 7
+[20:14:49] [Worker-ResourceReload-4/WARN]: Unused frames in sprite scguns:item/lightning_in_a_bottle: [3]
+[20:14:49] [Worker-ResourceReload-4/WARN]: Unused frames in sprite relics:item/spore_sack: [10]
+[20:14:49] [Worker-ResourceReload-7/WARN]: Invalid frame index on sprite relics:item/wool_mitten frame 14: 14
+[20:14:49] [Worker-ResourceReload-1/WARN]: Unused frames in sprite arphex:item/portal_anim: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+[20:14:49] [Worker-ResourceReload-0/WARN]: Texture the_flesh_that_hates:item/compass with size 15x15 limits mip level from 2 to 0
+[20:14:49] [modloading-worker-0/WARN]: Configuration file E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\scguns-common.toml is not correct. Correcting
+[20:14:49] [modloading-worker-0/WARN]: Incorrect key common.gameplay.griefing.enableBlockBreaking was corrected from null to its default, true. 
+[20:14:49] [modloading-worker-0/WARN]: Incorrect key common.gameplay.griefing.enableBeamMining was corrected from null to its default, true. 
+[20:14:49] [modloading-worker-0/WARN]: Incorrect key common.gameplay.drawAnimation was corrected from null to its default, true. 
+[20:14:49] [modloading-worker-0/WARN]: Incorrect key common.gameplay.ammoBoxCapacityMultiplier was corrected from null to its default, 1.0. 
+[20:14:49] [modloading-worker-0/WARN]: Incorrect key common.gameplay.gameplay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20:14:49] [modloading-worker-0/WARN]: Incorrect key common.gameplay.gameplay.spawnCasings was corrected from null to its default, true. 
+[20:14:49] [modloading-worker-0/WARN]: Incorrect key common.gameplay.energyProductionRate was corrected from null to its default, 50. 
+[20:14:49] [modloading-worker-0/WARN]: Incorrect key common.gameplay.forceEnergyGuns was corrected from null to its default, false. 
+[20:14:49] [modloading-worker-0/WARN]: Incorrect key common.gameplay.toggleADS was corrected from null to its default, false. 
+[20:14:50] [Worker-ResourceReload-5/WARN]: Unable to load model: 'minecraft:flesh_veins' referenced from: the_flesh_that_hates:flesh_canals#: java.io.FileNotFoundException: minecraft:models/flesh_veins.json
+[20:14:50] [Worker-ResourceReload-5/WARN]: Unable to load model: 'minecraft:flesh_terns' referenced from: the_flesh_that_hates:flesh_terns#level=1: java.io.FileNotFoundException: minecraft:models/flesh_terns.json
+[20:14:50] [Worker-ResourceReload-5/WARN]: Unable to load model: 'minecraft:hysterizerrevenge' referenced from: the_flesh_that_hates:hysterizer_revenge#inventory: java.io.FileNotFoundException: minecraft:models/hysterizerrevenge.json
+[20:14:50] [Worker-ResourceReload-5/WARN]: Unable to load model: 'minecraft:clay_grenade' referenced from: the_flesh_that_hates:clay_bomb_ammo#inventory: java.io.FileNotFoundException: minecraft:models/clay_grenade.json
+[20:14:50] [Worker-ResourceReload-5/WARN]: Unable to load model: 'scguns:special/waltz_conversion/ext_barrel' referenced from: scguns:special/waltz_conversion/ext_barrel: java.io.FileNotFoundException: scguns:models/special/waltz_conversion/ext_barrel.json
+[20:14:50] [Worker-ResourceReload-5/WARN]: Unable to load model: 'scguns:special/waltz_conversion/muzzle_brake' referenced from: scguns:special/waltz_conversion/muzzle_brake: java.io.FileNotFoundException: scguns:models/special/waltz_conversion/muzzle_brake.json
+[20:14:50] [Worker-ResourceReload-5/WARN]: Unable to load model: 'scguns:special/waltz_conversion/silencer' referenced from: scguns:special/waltz_conversion/silencer: java.io.FileNotFoundException: scguns:models/special/waltz_conversion/silencer.json
+[20:14:50] [Worker-ResourceReload-5/WARN]: Unable to load model: 'scguns:special/waltz_conversion/advanced_silencer' referenced from: scguns:special/waltz_conversion/advanced_silencer: java.io.FileNotFoundException: scguns:models/special/waltz_conversion/advanced_silencer.json
+[20:14:51] [Worker-ResourceReload-5/WARN]: Unable to load model: 'relics:item/horse_flute_broken' referenced from: relics:item/horse_flute_2d: java.io.FileNotFoundException: relics:models/item/horse_flute_broken.json
+[20:14:51] [modloading-worker-0/WARN]: Configuration file E:\modrinth\profiles\THE FLESH THAT GROWS (1)\config\ArPhEx Configurations.toml is not correct. Correcting
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Non-boss global spawnrates (biome-specific) was corrected from null to its default, 5.0. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Random-system spawnrates (not biome-specific) was corrected from null to its default, 5.0. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Tormentor initial natural spawning was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Insanity Mode was corrected from null to its default, false. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Disable Specific Mobs was corrected from null to its default, [mob_id, mob_id, mob_id (add as many as needed, e.g. spider_snatcher)]. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Enable non-boss hallucination spawning was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Vanilla Replacement Mode was corrected from null to its default, 0.0. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Vanilla Animal Replacements was corrected from null to its default, false. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Non-boss global spawnrates was corrected from 8.0 to its default, null. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Spawning.Random-system spawn rates was corrected from 10.0 to its default, null. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Difficulty.Friendly Mode was corrected from null to its default, false. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Difficulty.Tormentor Follow Speed was corrected from null to its default, 25.0. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Special Tormentor rendering was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Limit Tormented Wrath Power was corrected from null to its default, 100.0. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Allow Ethereal Staff wall bypassing was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Ant Queen outside damage was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Tormentor Particles was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Tormentor Shaders was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Bonus Tormentor Chat Messages was corrected from null to its default, [I am here, mortal, Your torment is inevitable]. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Tormentor Response Cooldown was corrected from null to its default, 2400.0. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.ArPhEx Griefing was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Tormentor Griefing was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Crawling Castle Surface was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Arphex Item Griefing was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Arphex Block Griefing was corrected from null to its default, true. 
+[20:14:51] [modloading-worker-0/WARN]: Incorrect key Other.Spacetime Flight View Tilt was corrected from null to its default, true. 
+[20:14:51] [Worker-ResourceReload-9/INFO]: [voicechat] Compatibility version 18
+[20:14:51] [Worker-ResourceReload-10/INFO]: [lucent] Found and created plugin: com.legacy.lucent.core.plugin.InternalLucentPlugin
+[20:14:51] [Worker-ResourceReload-6/INFO]: [Dynamic Lights] MidnightLib detected!
+[20:14:51] [Worker-ResourceReload-6/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[20:14:51] [Worker-ResourceReload-3/INFO]: firstaid starting...
+[20:14:51] [Worker-ResourceReload-6/INFO]: Hey, it's Night Lights!
+[20:14:52] [Worker-ResourceReload-0/INFO]: Initializing network...
+[20:14:52] [Worker-ResourceReload-0/INFO]: Initialized network!
+[20:14:52] [Worker-ResourceReload-9/INFO]: [voicechat] Loading plugins
+[20:14:52] [Worker-ResourceReload-9/INFO]: [voicechat] Loaded 1 plugin(s)
+[20:14:52] [Worker-ResourceReload-9/INFO]: [voicechat] Initializing plugins
+[20:14:52] [Worker-ResourceReload-9/INFO]: Initializing Simple Voice Chat integration
+[20:14:52] [Worker-ResourceReload-9/INFO]: [voicechat] Initialized 1 plugin(s)
+[20:14:52] [Worker-ResourceReload-9/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[20:14:55] [Forge Version Check/INFO]: [leavesbegone] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/leavesbegone.json
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:midnight_robe#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/midnight_robe_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model nightlights:mushroom_orange#clicked=false,rotation=8:
+    minecraft:textures/atlas/blocks.png:nightlight:blocks/mushroom_orange
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model nightlights:mushroom_orange#clicked=false,rotation=4:
+    minecraft:textures/atlas/blocks.png:nightlight:blocks/mushroom_orange
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:drowned_belt#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/drowned_belt_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:arrow_quiver#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/arrow_quiver_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model nightlights:mushroom_orange#clicked=false,rotation=12:
+    minecraft:textures/atlas/blocks.png:nightlight:blocks/mushroom_orange
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model nightlights:mushroom_orange#clicked=false,rotation=0:
+    minecraft:textures/atlas/blocks.png:nightlight:blocks/mushroom_orange
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:roller_skates#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/roller_skates_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:blazing_flask#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/blazing_flask_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model the_flesh_that_hates:hysterizer_revenge#inventory:
+    minecraft:textures/atlas/blocks.png:the_flesh_that_hates:item/plaqueblock
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:space_dissector#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/space_dissector_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:chorus_inhibitor#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/chorus_inhibitor_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model the_flesh_that_hates:flesh_canals#inventory:
+    minecraft:textures/atlas/blocks.png:the_flesh_that_hates:item/plaqueblock
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:spore_sack#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/spore_sack_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:reflection_necklace#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/reflection_necklace_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:holy_locket#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/holy_locket_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:infinity_ham#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/infinity_ham_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model burnt:burnt_high_grass#:
+    minecraft:textures/atlas/blocks.png:burnt:block/burnt_high_grass
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model burnt:burnt_high_grass#inventory:
+    minecraft:textures/atlas/blocks.png:burnt:block/burnt_high_grass
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:magic_mirror#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/magic_mirror_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:bastion_ring#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/bastion_ring_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:hunter_belt#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/hunter_belt_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:ice_skates#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/ice_skates_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model burnt:smoldering_high_grass#:
+    minecraft:textures/atlas/blocks.png:burnt:block/smoldering_high_grass
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:leather_belt#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/leather_belt_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model scguns:special/shellurker/heavy_stock:
+    minecraft:textures/atlas/blocks.png:scguns:animated/gun/shellurker
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:elytra_booster#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/elytra_booster_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:ice_breaker#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/ice_breaker_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:wool_mitten#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/wool_mitten_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:spatial_sign#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/spatial_sign_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model scguns:special/krauser/light_stock:
+    minecraft:textures/atlas/blocks.png:scguns:item/krauser_stocks
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:shadow_glaive#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/shadow_glaive_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model burnt:smoldering_high_grass#inventory:
+    minecraft:textures/atlas/blocks.png:burnt:block/smoldering_high_grass
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model relics:jellyfish_necklace#inventory:
+    minecraft:textures/atlas/blocks.png:relics:item/jellyfish_necklace_broken
+[20:14:55] [Worker-ResourceReload-5/WARN]: Missing textures in model the_flesh_that_hates:clay_bomb_ammo#inventory:
+    minecraft:textures/atlas/blocks.png:the_flesh_that_hates:item/plaqueblock
+[20:14:58] [Forge Version Check/INFO]: [leavesbegone] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[20:14:58] [Forge Version Check/INFO]: [toolstats] Starting version check at https://updates.blamejared.com/get?n=toolstats&gv=1.20.1
+[20:14:59] [Forge Version Check/INFO]: [toolstats] Found status: BETA Current: 16.0.9 Target: 16.0.9
+[20:14:59] [Forge Version Check/INFO]: [lucent] Starting version check at http://changelogs.moddinglegacy.com/lucent.json
+[20:14:59] [Render thread/INFO]: Registered synced data key scguns:aiming for minecraft:player
+[20:14:59] [Render thread/INFO]: Registered synced data key scguns:reloading for minecraft:player
+[20:14:59] [Render thread/INFO]: Registered synced data key scguns:shooting for minecraft:player
+[20:14:59] [Render thread/INFO]: Registered synced data key scguns:burstcount for minecraft:player
+[20:14:59] [Render thread/INFO]: Registered synced data key scguns:onburstcooldown for minecraft:player
+[20:14:59] [Render thread/INFO]: Registered synced data key scguns:melee for minecraft:player
+[20:14:59] [Render thread/WARN]: Mod 'scguns' took 1.027 s to run a deferred task.
+[20:14:59] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[20:14:59] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[20:14:59] [Render thread/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[20:14:59] [Render thread/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[20:14:59] [Render thread/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[20:14:59] [Render thread/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[20:14:59] [Render thread/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[20:14:59] [Worker-ResourceReload-4/INFO]: Reloading reverb parameters
+[20:14:59] [Worker-ResourceReload-1/INFO]: Loading FirstPerson Mod
+[20:14:59] [Worker-ResourceReload-2/INFO]: CameraOverhaul - CameraSystem is ready.
+[20:15:00] [Worker-ResourceReload-3/INFO]: [KONKRETE] Client-side libs ready to use!
+[20:15:00] [Forge Version Check/INFO]: [lucent] Found status: BETA Current: 1.5.5 Target: null
+[20:15:00] [Forge Version Check/INFO]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[20:15:00] [Forge Version Check/INFO]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[20:15:00] [Forge Version Check/INFO]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
+[20:15:01] [Forge Version Check/INFO]: [dynamic_fps] Found status: OUTDATED Current: 3.7.7 Target: 3.9.5
+[20:15:01] [Forge Version Check/INFO]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[20:15:01] [Forge Version Check/INFO]: [visualworkbench] Found status: OUTDATED Current: 8.0.0 Target: 8.0.1
+[20:15:01] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20:15:01] [Worker-ResourceReload-9/INFO]: [voicechat] Using Cloth Config GUI
+[20:15:01] [Worker-ResourceReload-9/INFO]: [voicechat] Loading Opus
+[20:15:01] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[20:15:01] [Forge Version Check/INFO]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[20:15:01] [Worker-ResourceReload-4/INFO]: Using Cloth Config GUI
+[20:15:01] [Forge Version Check/INFO]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.27 Target: 1.20.1-2.5.36
+[20:15:01] [Forge Version Check/INFO]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[20:15:02] [Forge Version Check/INFO]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.15 Target: null
+[20:15:02] [Forge Version Check/INFO]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[20:15:02] [Forge Version Check/INFO]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[20:15:02] [Forge Version Check/INFO]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[20:15:02] [Worker-ResourceReload-5/INFO]: [lucent] Starting dynamic lighting engine
+[20:15:02] [Worker-ResourceReload-8/INFO]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[20:15:02] [Worker-ResourceReload-8/INFO]: Start loading plugin at snownee.kiwi.customization.compat.jade.JadeCompat
+[20:15:02] [Worker-ResourceReload-8/INFO]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[20:15:02] [Worker-ResourceReload-8/INFO]: Start loading plugin at ht.treechop.compat.Jade
+[20:15:02] [Worker-ResourceReload-8/INFO]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[20:15:02] [Forge Version Check/INFO]: [embeddium_extra] Found status: OUTDATED Current: 0.5.4.3+mc1.20.1-build.121 Target: 0.5.4.4+mc1.20.1-build.131
+[20:15:02] [Forge Version Check/INFO]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[20:15:02] [Worker-ResourceReload-8/INFO]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[20:15:02] [Worker-ResourceReload-8/INFO]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[20:15:02] [Forge Version Check/INFO]: [puzzleslib] Found status: OUTDATED Current: 8.0.15 Target: 8.1.33
+[20:15:02] [Forge Version Check/INFO]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
+[20:15:02] [Forge Version Check/INFO]: [dynamiclights] Found status: OUTDATED Current: 1.8.3+mod Target: 1.8.9+mod
+[20:15:02] [Forge Version Check/INFO]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[20:15:02] [Forge Version Check/INFO]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[20:15:02] [Forge Version Check/INFO]: [burnt] Starting version check at https://github.com/pxlbnk/burnt-1.8.0/blob/8a532a9be3385ab08c74f55f21cd8f25f5a2f031/burnt_update.json
+[20:15:03] [Render thread/INFO]: Added resource packs: [mod_resources, vanilla, fabric, file/§6Better Lights.zip, file/VanillaTweaks_r919010_MC1.20.x.zip, file/Serified Font v1.1 f1-34.zip, file/Blues_Better_Zombies_v0.10.zip, file/Blues_Better_Skeletons_v0.01.zip]
+[20:15:03] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 9 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2388!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23411!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23411!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 9 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2388!/:?]
+	... 6 more
+[20:15:03] [Forge Version Check/INFO]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[20:15:03] [Forge Version Check/INFO]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[20:15:03] [Forge Version Check/INFO]: [mr_abandoned_villages] Starting version check at https://api.modrinth.com/updates/fLAIO8XF/forge_updates.json
+[20:15:03] [Forge Version Check/INFO]: [mr_abandoned_villages] Found status: AHEAD Current: 1-v1.0.1 Target: null
+[20:15:03] [Forge Version Check/INFO]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
+[20:15:03] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[20:15:03] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[20:15:03] [Render thread/WARN]: Missing sound for event: rotted:entity.pestilith.ambient
+[20:15:03] [Render thread/WARN]: Missing sound for event: rotted:entity.pestilith.death
+[20:15:03] [Render thread/WARN]: Missing sound for event: rotted:entity.pestilith.birth
+[20:15:03] [Render thread/WARN]: Missing sound for event: scguns:item.slap.slap
+[20:15:03] [Render thread/WARN]: Missing sound for event: sounds:item.hard_metal.hold
+[20:15:03] [Render thread/WARN]: Missing sound for event: sounds:item.shiny_metal.hold
+[20:15:03] [Forge Version Check/INFO]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[20:15:03] [Forge Version Check/INFO]: [biomancy] Starting version check at https://api.modrinth.com/updates/uAAuyU4M/forge_updates.json
+[20:15:03] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[20:15:03] [Render thread/INFO]: Initializing Sound Physics
+[20:15:03] [Render thread/INFO]: EFX Extension recognized
+[20:15:03] [Render thread/INFO]: Max auxiliary sends: 4
+[20:15:03] [Forge Version Check/INFO]: [biomancy] Found status: BETA Current: 2.8.19.0 Target: 2.8.19.0
+[20:15:03] [Forge Version Check/INFO]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[20:15:03] [Render thread/INFO]: Aux slot 1 created
+[20:15:03] [Render thread/INFO]: Aux slot 2 created
+[20:15:03] [Render thread/INFO]: Aux slot 3 created
+[20:15:03] [Render thread/INFO]: Aux slot 4 created
+[20:15:03] [Render thread/INFO]: EFX ready
+[20:15:03] [Render thread/INFO]: Sound engine started
+[20:15:03] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2388!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23411!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23411!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2388!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2388!/:?]
+	... 6 more
+[20:15:03] [Forge Version Check/INFO]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[20:15:03] [Render thread/INFO]: Created: 4096x2048x2 minecraft:textures/atlas/blocks.png-atlas
+[20:15:03] [Render thread/INFO]: Created: 512x256x2 minecraft:textures/atlas/signs.png-atlas
+[20:15:03] [Render thread/INFO]: Created: 512x512x2 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:15:03] [Render thread/INFO]: Created: 512x512x2 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:15:03] [Render thread/INFO]: Created: 2048x1024x2 minecraft:textures/atlas/armor_trims.png-atlas
+[20:15:03] [Forge Version Check/INFO]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[20:15:03] [Forge Version Check/INFO]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[20:15:03] [Render thread/INFO]: Created: 1024x1024x2 minecraft:textures/atlas/chest.png-atlas
+[20:15:03] [Render thread/INFO]: Created: 128x64x2 minecraft:textures/atlas/decorated_pot.png-atlas
+[20:15:03] [Render thread/INFO]: Created: 1024x1024x2 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:15:03] [Render thread/INFO]: Created: 512x256x2 minecraft:textures/atlas/beds.png-atlas
+[20:15:04] [Forge Version Check/INFO]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[20:15:05] [Render thread/INFO]: emissive suffixes loaded: {_e}.
+[20:15:05] [Render thread/WARN]: properties files number error in baby category.
+[20:15:06] [Render thread/WARN]: [EMF]: The 'Essential' mod is loaded, disabling EMF's 'player_cape.jem' support due to conflict
+[20:15:06] [Render thread/WARN]: [EMF]: The 'Essential' mod is loaded, disabling EMF's 'player_cape.jem' support due to conflict
+[20:15:06] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[20:15:06] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/particles.png-atlas
+[20:15:06] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[20:15:06] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:15:06] [Render thread/INFO]: Loaded 0 dynamic_lighting/entity
+[20:15:06] [Render thread/INFO]: Loaded 0 dynamic_lighting/item
+[20:15:06] [Render thread/INFO]: Loaded 0 emissive_textures/block
+[20:15:06] [Render thread/INFO]: Loaded 0 emissive_textures/armor_trim
+[20:15:07] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[20:15:07] [Render thread/INFO]: Successfully loaded image 'sounds:textures/gui/chat_sounds.webp'
+[20:15:07] [Render thread/INFO]: Successfully loaded image 'sounds:textures/gui/discord.webp'
+[20:15:07] [Render thread/INFO]: Successfully loaded image 'sounds:textures/gui/event_sounds.webp'
+[20:15:07] [Render thread/INFO]: Successfully loaded image 'sounds:textures/gui/kofi.webp'
+[20:15:07] [Render thread/INFO]: Successfully loaded image 'sounds:textures/gui/mod_sounds.webp'
+[20:15:07] [Render thread/INFO]: Successfully loaded image 'sounds:textures/gui/modrinth.webp'
+[20:15:07] [Render thread/INFO]: Successfully loaded image 'sounds:textures/gui/ui_sounds.webp'
+[20:15:07] [Render thread/INFO]: Successfully loaded image 'sounds:textures/gui/world_sounds.webp'
+[20:15:07] [Render thread/INFO]: [Antique Atlas] Reloading Tile Textures...
+[20:15:07] [Render thread/INFO]: [Antique Atlas] Reloading Biome Tile Providers...
+[20:15:07] [Render thread/INFO]: [Antique Atlas] Reloading Marker Textures...
+[20:15:07] [Render thread/INFO]: [Antique Atlas] Reloading Structure Tile / Marker Providers...
+[20:15:07] [Render thread/INFO]: reloading ETF data.
+[20:15:07] [Render thread/INFO]: emissive suffixes loaded: {_e}.
+[20:15:07] [Render thread/INFO]: Canceling Microsoft telemetry
+[20:15:07] [Worker-Main-7/ERROR]: GET request failed. Response Code: 301
+[20:15:07] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[20:15:07] [Render thread/WARN]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.device.GLRenderDevice$ImmediateDrawCommandList, which may cause instability.
+[20:15:07] [Render thread/INFO]: Loaded AmbientEngine 'basic' v3.1.5. 11 dimension(s), 11 features, 11 blockgroups, 2 sound collections, 37 regions, 58 sounds, 11 sound categories, 5 solids and 2 biome types
+[20:15:07] [Render thread/INFO]: Loading PlayerAnimator support!
+[20:15:07] [Render thread/INFO]: Loaded Vanilla Hands items: []
+[20:15:07] [Render thread/INFO]: Loaded Auto Disable items: []
+[20:15:10] [Render thread/ERROR]: Signature is missing from Property textures
+[20:15:10] [Render thread/WARN]: Game took 335.973 seconds to start
+[20:16:09] [Render thread/ERROR]: Signature is missing from Property textures
+[20:16:15] [Render thread/INFO]: Mixing client.MixinOnlineServerEntry from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.screens.multiplayer.ServerSelectionList$OnlineServerEntry
+[20:16:15] [Render thread/INFO]: Renaming synthetic method lambda$onRender$0()Ljava/util/ArrayList; to md652e60$nochatreports$lambda$onRender$0$1 in mixins/common/nochatreports.mixins.json:client.MixinOnlineServerEntry from mod nochatreports
+[20:16:25] [Server Pinger #1/INFO]: Mixing client.MixinServerStatusPinger$1 from mixins/common/nochatreports.mixins.json into net.minecraft.client.multiplayer.ServerStatusPinger$1
+[20:16:25] [Server Pinger #1/INFO]: Mixing client.MixinServerStatusPinger$1 from mixins/forge/nochatreports-forge.mixins.json into net.minecraft.client.multiplayer.ServerStatusPinger$1
+[20:16:25] [Server Pinger #1/INFO]: Renaming synthetic method lambda$static$0(Ljava/lang/Error;)V to md652e60$lambda$static$0$0 in mixins/forge/nochatreports-forge.mixins.json:client.MixinServerStatusPinger$1 from mod (unknown)
+[20:16:25] [Server Pinger #1/INFO]: Common mixin into ServerStatusPinger$1 succeeded.
+[20:16:25] [Netty Client IO #0/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[20:16:25] [Netty Client IO #0/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[20:16:25] [Netty Client IO #0/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[20:16:25] [Netty Client IO #5/INFO]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
+[20:16:26] [Netty Client IO #0/ERROR]: Channels [ic_ia:main,firstaid:channel,ironshulkerbox:network,corgilib:network,sons_of_sins:sons_of_sins,azurelib:main,azurelib:network_channel,the_flesh_that_hates:the_flesh_that_hates,minecraft:treechop-channel,arphex:arphex,dataanchor:entity_tracked_data,dataanchor:level_tracked_data,geckolib:main,desolate:desolate,kiwi:main,carryon:carryonpackets,endermanoverhaul:main,securitycraft:securitycraft,beansbackpacks:main,dataanchor:chunk_tracked_data,curios:main,burnt:burnt,scguns:play,sanitydim:main,dataanchor:block_entity_tracked_data,biomancy:main,ironchest:network] rejected vanilla connections
+[20:16:26] [Netty Client IO #3/ERROR]: Channels [ic_ia:main,firstaid:channel,ironshulkerbox:network,corgilib:network,sons_of_sins:sons_of_sins,azurelib:main,azurelib:network_channel,the_flesh_that_hates:the_flesh_that_hates,minecraft:treechop-channel,arphex:arphex,dataanchor:entity_tracked_data,dataanchor:level_tracked_data,geckolib:main,desolate:desolate,kiwi:main,carryon:carryonpackets,endermanoverhaul:main,securitycraft:securitycraft,beansbackpacks:main,dataanchor:chunk_tracked_data,curios:main,burnt:burnt,scguns:play,sanitydim:main,dataanchor:block_entity_tracked_data,biomancy:main,ironchest:network] rejected vanilla connections
+[20:16:26] [Netty Client IO #5/ERROR]: Channels [ic_ia:main,firstaid:channel,ironshulkerbox:network,corgilib:network,sons_of_sins:sons_of_sins,azurelib:main,azurelib:network_channel,the_flesh_that_hates:the_flesh_that_hates,minecraft:treechop-channel,arphex:arphex,dataanchor:entity_tracked_data,dataanchor:level_tracked_data,geckolib:main,desolate:desolate,kiwi:main,carryon:carryonpackets,endermanoverhaul:main,securitycraft:securitycraft,beansbackpacks:main,dataanchor:chunk_tracked_data,curios:main,burnt:burnt,scguns:play,sanitydim:main,dataanchor:block_entity_tracked_data,biomancy:main,ironchest:network] rejected vanilla connections

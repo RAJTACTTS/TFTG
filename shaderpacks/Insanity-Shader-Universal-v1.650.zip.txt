@@ -1,0 +1,8 @@
+#Sat Feb 08 11:34:00 EST 2025
+shadowDistance=128.0
+SHADOW_FILTER=false
+REFLECTION=0
+shadowMapResolution=512
+SHADOW_COLOR=false
+ADVANCED_MATERIALS=false
+SELF_SHADOW=false

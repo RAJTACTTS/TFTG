@@ -1,0 +1,13 @@
+{
+  "enable_on_fire": "YES",
+  "enable_glowing": "YES",
+  "enable_ghast": "YES",
+  "enable_enchanted_items": "YES",
+  "enable_amethyst_trimmed": "YES",
+  "enable_fire_aspect": "YES",
+  "enable_riptide": "YES",
+  "enable_channeling": "YES",
+  "enable_water_sensitive": "YES",
+  "enable_sound": "YES",
+  "enable_rain_sensitive": "YES"
+}
